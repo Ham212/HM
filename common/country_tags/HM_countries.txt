@@ -1,0 +1,48 @@
+# WEST ARTOPA
+
+AUR = "countries/HM_West_Art.txt" # Aurissos
+PAS = "countries/HM_West_Art.txt" # Pasia
+MAR = "countries/HM_West_Art.txt" # Marrienbourg
+MEC = "countries/HM_West_Art.txt" # Mecudia
+CAR = "countries/HM_West_Art.txt" # Carrisia
+SIK = "countries/HM_West_Art.txt" # Sikssayu
+KON = "countries/HM_West_Art.txt" # Konstanze
+AES = "countries/HM_West_Art.txt" # Aeselia
+WYN = "countries/HM_West_Art.txt" # Wynn
+HAE = "countries/HM_West_Art.txt" # Haesal
+SZE = "countries/HM_West_Art.txt" # Szespin
+MAT = "countries/HM_West_Art.txt" # Martirosya
+MOL = "countries/HM_West_Art.txt" # Molva
+SAC = "countries/HM_West_Art.txt" # Sachenland
+SUR = "countries/HM_West_Art.txt" # Surovia
+CAL = "countries/HM_West_Art.txt" # Caleta
+
+# EAST ARTOPA
+
+AVU = "countries/HM_East_Art.txt" # Avusan
+GRA = "countries/HM_East_Art.txt" # Granitsmore
+SEH = "countries/HM_East_Art.txt" # Sehwang
+KOR = "countries/HM_East_Art.txt" # Konriyu
+AUS = "countries/HM_East_Art.txt" # Aurissiote Simunwa
+CAS = "countries/HM_East_Art.txt" # Carrisian Simunwa
+SKS = "countries/HM_East_Art.txt" # Sikssayu Kid Simunwa
+
+# BALTECA
+
+HOL = "countries/HM_Balteca.txt" # Holmr
+VAS = "countries/HM_Balteca.txt" # Vaskil
+DUN = "countries/HM_Balteca.txt" # Dunica
+OSA = "countries/HM_Balteca.txt" # Osana
+RYK = "countries/HM_Balteca.txt" # Kykonen
+TEC = "countries/HM_Balteca.txt" # Techalana
+ESN = "countries/HM_Balteca.txt" # Esnit
+WBO = "countries/HM_Balteca.txt" # Wynnic Borealia
+WBA = "countries/HM_Balteca.txt" # Wynnic Baorga
+CVE = "countries/HM_Balteca.txt" # Carrisian Vespera
+OKO = "countries/HM_Balteca.txt" # Osanan Kovia
+
+# ESCANA
+
+MAA = "countries/HM_Escana.txt" # Manta Anta
+KAO = "countries/HM_Escana.txt" # Kaocusus
+EEC = "countries/HM_Escana.txt" # East Escana Companies
