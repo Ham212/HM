@@ -46,3 +46,20 @@ OKO = "countries/HM_Balteca.txt" # Osanan Kovia
 MAA = "countries/HM_Escana.txt" # Manta Anta
 KAO = "countries/HM_Escana.txt" # Kaocusus
 EEC = "countries/HM_Escana.txt" # East Escana Companies
+
+# KANTA
+
+WCS = "countries/HM_Kanta.txt" # Wynnic CSWK
+ANB = "countries/HM_Kanta.txt" # Aeselian Nbangala
+KGB = "countries/HM_Kanta.txt" # Konstanzische Glaca Bay
+CAA = "countries/HM_Kanta.txt" # Carrisian Amarije
+CVA = "countries/HM_Kanta.txt" # Carrisian Vasseli
+CFS = "countries/HM_Kanta.txt" # Cereveli F.S.
+LAQ = "countries/HM_Kanta.txt" # LAQTER
+ALI = "countries/HM_Kanta.txt" # Aurissiote Liminika
+MNG = "countries/HM_Kanta.txt" # Marrien Ngombia
+ASK = "countries/HM_Kanta.txt" # Aurissiote South Kanta 
+AKT = "countries/HM_Kanta.txt" # Aurissiote Karnasses Territory
+PEK = "countries/HM_Kanta.txt" # Pasian East Kanta 
+PSE = "countries/HM_Kanta.txt" # Pasian South Ecric
+KHU = "countries/HM_Kanta.txt" # Khuz

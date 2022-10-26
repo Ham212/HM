@@ -1,0 +1,7 @@
+#reload countrycolors
+
+#WEST ARTOPA
+AUR = {
+	color = rgb { 153 119 61 }
+	color_ui = rgb { 153 119 61 }
+}
