@@ -1,0 +1,11 @@
+
+state={
+	id=6
+	name="Almus"
+	provinces={
+		15643 15644 15725 15732 15753 15767 15804 15815 15816 15864 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

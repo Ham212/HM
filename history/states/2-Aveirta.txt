@@ -1,0 +1,21 @@
+state={
+	id=2
+	name="Aveirta"
+	state_category = megalopolis
+	provinces={
+		15889
+	}
+	manpower=4509382
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+    history = {
+        owner = PAS
+        add_core_of = PAS
+        buildings = {
+            infrastructure = 4
+            industrial_complex = 3
+            arms_factory = 1
+            dockyard = 1
+        }
+        victory_points = { 15889 50 }
+}
