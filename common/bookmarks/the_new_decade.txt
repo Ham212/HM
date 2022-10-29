@@ -1,0 +1,108 @@
+bookmarks = {
+	bookmark = {
+		name = "BGA_NAME"
+		desc = "BGA_DESC"
+		date = 1930.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "AUS"
+		default = yes
+		
+		"SPA"={
+			history = "SPA_BGA_DESC"
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+
+		"GBR"={
+			history = "GBR_BGA_DESC"
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+
+		"FRA"={
+			history = "FRA_BGA_DESC"
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+
+		"AUS"={
+			history = "AUS_BGA_DESC"
+			ideas = {
+				AUS_fallout_of_the_creditanstalt_bust
+				AUS_deadlocked_reichstag
+				AUS_loyal_minorities
+			}
+			focuses = {
+				
+			}
+		}
+		
+		"ANS"={
+			history = "ANS_BGA_DESC"
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+
+		"RUS"={
+			history = "RUS_BGA_DESC"
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+
+		"HOL"={
+			history = "HOL_BGA_DESC"
+			ideas = {
+
+			}
+			focuses = {
+				
+			}
+		}
+
+		"---"={
+			history = "OTHER_BGA_DESC"
+		}
+
+		"JAP" = {
+			minor = yes
+			history = "JAP_BGA_DESC"
+			ideology = utilitarian_despotist
+			ideas = {
+				JAP_the_rising_sun
+				JAP_clan_system
+				JAP_economic_downturn
+			}
+
+			focuses = {
+				JAP_reversing_financial_instability
+				JAP_reduce_the_army_budget
+				JAP_return_to_the_gold_standard
+			}
+		}
+
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

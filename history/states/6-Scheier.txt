@@ -5,6 +5,11 @@ state={
 	provinces={
 		409 3477 3653 4209 9441 9511 9526 9552 9566 9592 9599 
 	}
+
+	history = {
+		owner = KON
+	}
+
 	manpower=1
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

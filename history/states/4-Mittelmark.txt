@@ -6,6 +6,11 @@ state={
 	provinces={
 		1989 3695 5466 5516 9522 9565 9580 9605 9644 9650 9651 9682 9688 9734 
 	}
+
+	history = {
+		owner = KON
+	}
+
 	manpower=1
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

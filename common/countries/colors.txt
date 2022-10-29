@@ -5,3 +5,8 @@ AUR = {
 	color = rgb { 153 119 61 }
 	color_ui = rgb { 153 119 61 }
 }
+
+KON = {
+	color = rgb { 47 81 135 }
+	color_ui = rgb { 47 81 135 }
+}
