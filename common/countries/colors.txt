@@ -10,3 +10,8 @@ KON = {
 	color = rgb { 47 81 135 }
 	color_ui = rgb { 47 81 135 }
 }
+
+SZE = {
+	color = rgb { 179 63 25 }
+	color_ui = rgb { 179 63 25 }
+}
