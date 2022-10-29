@@ -1,0 +1,11 @@
+state={
+	id=2
+	name="Pashubia"
+	state_category = large_city
+	provinces={
+		864 5020 9783 9784 9810 9826 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
