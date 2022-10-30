@@ -3,7 +3,7 @@ characters = {
 		name = "Avagis Ador Delvos" 
 		portraits = {
 			civilian = {
-				large = GFX\leaders\CAR\Portrait_CAR_Avagis_Ador_Delvos.dds
+				large = GFX\leaders\CAR\Portrait_CAR_Avagis_Ador_Delvos.png
 			}
 		}
 		country_leader = {
