@@ -3,8 +3,8 @@ state={
 	name="STATE_91"
 
 	history = {
-		owner = PAS
-		add_core = PAS
+		owner = MAR
+		add_core = MAR
 	}
 	provinces={
 		7066 
