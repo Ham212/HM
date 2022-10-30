@@ -1,0 +1,13 @@
+l_english:
+ PAS_fascism:0 "Valan Empire"
+ PAS_fascism_DEF:0 "the Valan Empire"
+ PAS_democratic:0 "Pasia"
+ PAS_democratic_DEF:0 "Pasia"
+ PAS_neutrality:1 "Pasia"
+ PAS_neutrality_DEF:1 "Pasia"
+ PAS_communism:0 "Pasian Commune"
+ PAS_communism_DEF:0 "the Pasian Commune"
+ PAS_fascism_ADJ:0 "Valan"
+ PAS_democratic_ADJ:0 "Valan"
+ PAS_neutrality_ADJ:0 "Valan"
+ PAS_communism_ADJ:0 "Valan"
