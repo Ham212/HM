@@ -1,0 +1,18 @@
+state={
+	id=27
+	name="STATE_27"
+
+
+	history={
+		owner = MEC
+		add_core = MEC
+
+	}
+
+	provinces={
+		1312 2673 3219 3805 9023 9034 9071 9100 9191 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

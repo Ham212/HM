@@ -1,0 +1,17 @@
+state={
+	id=50
+	name="STATE_50"
+
+	history = {
+		owner = CAR
+		add_core = CAR
+	}
+	state_category=rural
+	
+	provinces={
+		1302 2626 2864 4632 4997 5230 9567 9593 9600 9628 9633 9640 9646 9663 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

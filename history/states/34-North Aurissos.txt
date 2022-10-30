@@ -1,0 +1,17 @@
+state={
+	id=34
+	name="STATE_34"
+
+	history={
+		owner = AUR
+		add_core = AUR
+
+	}
+
+	provinces={
+		1394 2945 3022 8515 8570 8617 8627 8655 8667 8673 8674 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

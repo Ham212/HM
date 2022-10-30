@@ -1,0 +1,18 @@
+state={
+	id=29
+	name="STATE_29"
+
+	history={
+		owner = AUR
+		add_core = MEC
+		add_core = AUR
+
+	}
+
+	provinces={
+		578 1996 8821 8835 8878 8889 8927 9014 9042 9070 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

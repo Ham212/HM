@@ -1,0 +1,15 @@
+state={
+	id=67
+	name="STATE_67"
+
+	history = {
+		owner = PAS
+		add_core = PAS
+	}
+	provinces={
+		2036 4497 5151 7652 7687 7697 7726 7744 7763 7784 7793 7803 7818 7838 7885 7917 7925 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

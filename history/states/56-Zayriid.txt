@@ -1,0 +1,17 @@
+state={
+	id=56
+	name="STATE_56"
+
+	history = {
+		owner = CAR
+		add_core = CAR
+	}
+	state_category=town
+	
+	provinces={
+		3092 3844 9607 9621 9645 9675 9694 9712 9723 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

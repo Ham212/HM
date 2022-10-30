@@ -1,0 +1,15 @@
+state={
+	id=83
+	name="STATE_83"
+
+	history = {
+		owner = PAS
+		add_core = PAS
+	}
+	provinces={
+		990 8268 8307 8329 8383 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

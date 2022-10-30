@@ -1,0 +1,20 @@
+
+state={
+	id=16
+	name="STATE_16"
+
+
+	history={
+		owner = AUR
+		add_core = AUR
+		add_core = MEC
+
+	}
+
+	provinces={
+		8830 8942 8984 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

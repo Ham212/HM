@@ -1,16 +1,18 @@
+
 state={
 	id=10
 	name="Meiten"
-	state_category = large_town
+
+	history={
+		owner = KON
+
+	}
+
 	provinces={
 		306 2839 3933 4239 4309 5502 9587 9620 
 	}
-
-	history = {
-		owner = KON
-	}
-
 	manpower=1
 	buildings_max_level_factor=1.000
+	state_category=large_town
 	local_supplies=0.000
 }

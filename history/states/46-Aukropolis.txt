@@ -1,0 +1,17 @@
+state={
+	id=46
+	name="STATE_46"
+
+	history={
+		owner = AUR
+		add_core = AUR
+
+	}
+
+	provinces={
+		321 1035 1689 2185 2293 2582 3953 4235 4946 5045 9474 9475 9508 9516 9558 9604 9626 9642 9661 9668 9674 9692 9700 9727 9740 9756 9768 9769 9772 9791 9794 9800 9805 9834 9852 9876 9898 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
