@@ -1,14 +1,14 @@
 bookmarks = {
 	bookmark = {
-		name = "BGA_NAME"
-		desc = "BGA_DESC"
-		date = 1930.1.1.12
+		name = "HM_NAME"
+		desc = "HM_DESC"
+		date = 1915.1.1.12
 		picture = "GFX_select_date_1936"
-		default_country = "AUS"
+		default_country = "CAR"
 		default = yes
 		
-		"SPA"={
-			history = "SPA_BGA_DESC"
+		"CAR"={
+			history = "CAR_HM_DESC"
 			ideas = {
 				
 			}
