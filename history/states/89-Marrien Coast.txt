@@ -1,0 +1,16 @@
+
+state={
+	id=89
+	name="STATE_89"
+
+	history = {
+		owner = MAR
+		add_core = MAR
+	}
+	provinces={
+		3236 3994 7398 7415 7441 7465 7474 7497 7498 7518 7570 7589 7635 7643 7653 7718 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

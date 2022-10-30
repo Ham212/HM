@@ -1,0 +1,15 @@
+state={
+	id=102
+	name="STATE_102"
+
+	history = {
+		owner = MAR
+		add_core = MAR
+	}
+	provinces={
+		3720 4103 7164 7196 7214 7240 7269 7270 7285 7308 7327 7337 7349 7374 7446 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

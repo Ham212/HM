@@ -1,0 +1,15 @@
+state={
+	id=93
+	name="STATE_93"
+
+	history = {
+		owner = MAR
+		add_core = MAR
+	}
+	provinces={
+		2517 3178 4254 6865 6870 6893 6897 6925 6940 6962 6991 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
