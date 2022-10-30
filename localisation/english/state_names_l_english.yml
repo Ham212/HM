@@ -1,4 +1,7 @@
 ﻿l_english:
+
+## KONSTANZE ##
+
  STATE_1:1 "Pashubia"
  Noelle:0 "Noelle"
  Pashubia:0 "Pashubia"
@@ -13,12 +16,23 @@
  STATE_11:0 "Selphastin"
  Meiten:0 "Meiten"
  Selphastin:0 "Selphastin"
- STATE_12:0 "Rilkymet"
+
+ ## MECUDIA ##
+
  STATE_13:0 "Eastern Mecudia"
  STATE_14:0 "Namoduz"
  STATE_15:0 "Bozakot"
+ STATE_27:0 "Primorekin"
+ STATE_28:0 "Southeast Mecudia"
+ STATE_26:0 "Askorven"
  STATE_16:0 "Mecudial Frontier"
  STATE_17:0 "Mecudial Corridor"
+
+
+
+## SZESPIN ##
+
+ STATE_12:0 "Rilkymet"
  STATE_18:0 "Nystaml"
  STATE_19:0 "Arsul"
  STATE_20:0 "Uskvory"
@@ -27,29 +41,33 @@
  STATE_23:0 "Clyczryl"
  STATE_24:0 "Mosvryl"
  STATE_25:0 "Pyrkel"
- STATE_26:0 "Askorven"
- STATE_27:0 "Primorekin"
- STATE_28:0 "Southeast Mecudia"
- STATE_29:0 "Aurissote Mecudia"
- STATE_30:0 "Nakleonica"
- STATE_31:0 "Altymos"
- STATE_32:0 "Northeast Aurissos"
- STATE_33:0 "Melander"
- STATE_34:0 "North Aurissos"
+
+## AURISSOS ##
+
+ STATE_29:0 "Pelsis"
+ STATE_30:0 "Taurica"
+ STATE_31:0 "Musszka"
+ STATE_32:0 "Optemnoi"
+ STATE_33:0 "Ypermontisz"
+ STATE_34:0 "Nussos"
  STATE_35:0 "Alagasz"
- STATE_36:0 "Outer Alagasz"
- STATE_37:0 "North Aurissote River"
- STATE_38:0 "South Aurissote River"
- STATE_39:0 "Aurissote Frontier"
- STATE_40:0 "Southeast Aurissos"
- STATE_41:0 "East Aurissos"
- STATE_42:0 "Central Aurissos"
- STATE_43:0 "North Vadian Isle"
- STATE_44:0 "South Vadian Isle"
- STATE_45:0 "Aurissote Pausania"
- STATE_46:0 "Aukropolis"
+ STATE_36:0 "Prasini Taurica"
+ STATE_37:0 "Gaszika"
+ STATE_38:0 "Ebros"
+ STATE_39:0 "Larmeo"
+ STATE_40:0 "Bassos"
+ STATE_41:0 "Nailimesz"
+ STATE_42:0 "Falestinoi"
+ STATE_43:0 "Magnathepsis"
+ STATE_44:0 "Evras"
+ STATE_45:0 "Auvedia"
+ STATE_46:0 "Haporisia"
  STATE_47:0 "Aurissote Subtorian Isle"
  STATE_48:0 "Cresmias"
+ STATE_104:0 "South Epaktimosz"
+
+## CARRISIA ##
+
  STATE_49:0 "Ildovica"
  STATE_50:0 "Altinado"
  STATE_51:0 "Steydia"
@@ -66,6 +84,9 @@
  STATE_62:0 "Canzk"
  STATE_63:0 "Leyre"
  STATE_64:0 "Karis"
+
+## PASIA ##
+
  STATE_65:0 "Aveirta"
  STATE_66:0 "Salfuzo"
  STATE_67:0 "Lenduo"
@@ -88,3 +109,5 @@
  STATE_84:0 "Pasian Frontier"
  STATE_85:0 "Venonice"
  STATE_86:0 "Zavun Coast"
+
+
