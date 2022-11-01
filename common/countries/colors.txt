@@ -2,8 +2,8 @@
 
 #WEST ARTOPA
 AUR = {
-	color = rgb { 76 89 153 }
-	color_ui = rgb { 76 89 153 }
+	color = rgb { 61 120 49 }
+	color_ui = rgb { 61 120 49 }
 }
 
 KON = {
@@ -27,12 +27,13 @@ CAR = {
 }
 
 PAS = {
-	color = rgb { 220 224 242 }
-	color_ui = rgb { 220 224 242 }
+	color = rgb { 150 68 59 }
+	color_ui = rgb { 150 68 59 }
 }
 
 MAR = {
 	color = rgb { 46 127 148 }
 	color_ui = rgb { 46 127 148 }
 }
+
 
