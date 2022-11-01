@@ -2,8 +2,8 @@
 
 #WEST ARTOPA
 AUR = {
-	color = rgb { 61 120 49 }
-	color_ui = rgb { 61 120 49 }
+	color = rgb { 129 153 83  }
+	color_ui = rgb { 80 159 90  }
 }
 
 KON = {
@@ -17,8 +17,8 @@ SZE = {
 }
 
 MEC = {
-	color = rgb { 70 145 219 }
-	color_ui = rgb { 70 145 219 }
+	color = rgb { 140 59 124 }
+	color_ui = rgb { 128 70 129 }
 }
 
 CAR = {
@@ -27,12 +27,12 @@ CAR = {
 }
 
 PAS = {
-	color = rgb { 150 68 59 }
-	color_ui = rgb { 150 68 59 }
+	color = rgb { 161 69 83 }
+	color_ui = rgb { 161 69 83 }
 }
 
 MAR = {
-	color = rgb { 46 127 148 }
+	color = rgb { 85 98 161 }
 	color_ui = rgb { 46 127 148 }
 }
 
