@@ -5,13 +5,16 @@ state={
 	history = {
 		owner = CAR
 		add_core = CAR
+
+		victory_points = {3167 1 }
 	}
-	state_category=town
-	
+
 	provinces={
 		903 1526 3089 3167 4655 5624 10057 10097 10101 10115 10140 10141 10157 10177 10190 10218 10291 
 	}
-	manpower=0
+
+	state_category=town
+	manpower=1
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }
