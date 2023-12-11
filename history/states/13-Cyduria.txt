@@ -1,0 +1,19 @@
+
+state={
+	id=13
+	name="STATE_13"
+
+	history={
+		owner = CYD
+		add_core_of = CYD
+
+	}
+
+	provinces={
+		1523 1680 1689 2356 2408 3792 3953 4235 4559 4565 5045 9474 9475 9508 9516 9558 9604 9642 9668 9674 9700 9715 9727 9745 9769 9781 9782 9795 9805 9815 9825 9834 9846 9852 9860 9876 9877 9899 9906 10100 10543 12015 12017 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

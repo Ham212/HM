@@ -1,0 +1,54 @@
+﻿capital = 21
+
+## OOB = "Mittsali_OOB"
+
+set_technology = {
+	infantry_weapons = 1
+	tech_support = 1
+	tech_recon = 1
+}
+
+recruit_character = MIT_Raynil_VI
+
+set_politics = {
+	ruling_party = utilitarian_despotist
+	last_election = "1933.3.5"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+puppet = MES 
+puppet = SUI 
+
+create_faction = MIT_start_faction
+
+add_to_faction = MES
+add_to_faction = SUI
+
+set_popularities = {
+	utilitarian_despotist = 34
+	ultranationalist = 6
+	authoritarian_democracy = 41
+	conservative_democracy = 0
+	liberal_conservatism = 9
+	social_liberal = 4
+	social_democracy = 4
+	social_jacobinism = 2
+	revolutionary_socialism = 0
+	authoritarian_socialism = 0
+}
+
+add_ideas = {
+	MIT_divios_burden
+	MIT_the_konstanze_problem
+	MIT_a_crippling_empire
+	MIT_egotist_army_culture
+	MIT_cadozi_exile
+
+	#laws
+	partial_economic_mobilisation
+	limited_conscription
+}
+
+set_convoys = 5
+

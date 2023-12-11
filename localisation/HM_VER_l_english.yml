@@ -1,0 +1,47 @@
+﻿l_english:
+### BookVERk ###
+
+### Opinions ###
+
+### Events ###
+
+### Parties ###
+
+### Country Name ###
+ 
+VER:0 "Verkijurd"
+VER_DEF:0 "Verkijurd"
+VER_ADJ:0 "Verkijurd"
+
+CYD:0 "Cyduria"
+CYD_DEF:0 "Cyduria"
+CYD_ADJ:0 "Cyduria"
+
+TAL:0 "Talshar"
+TAL_DEF:0 "Talshar"
+TAL_ADJ:0 "Talshar"
+
+
+
+
+### Focuses ###
+
+ VER_Focus_ID:0 ""
+ VER_Focus_ID_desc:0 ""
+ 
+### Ideas ###
+ 
+ VER_Idea_ID:0 ""
+ VER_Idea_ID_desc:0 "" 
+
+### Flags ###
+
+### Tooltips ###
+
+### Companies ###
+
+### Ministers ###
+
+### Leaders ###
+
+### Tech? ###

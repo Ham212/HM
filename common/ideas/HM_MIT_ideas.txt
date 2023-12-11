@@ -1,0 +1,75 @@
+ideas = {
+
+	##################
+	## Nat Spirits ###
+	##################
+
+	country = {
+
+		# Divios Burden
+		
+		MIT_divios_burden = {
+			on_add = {log = "[GetDateText]: [Root.GetName]: add idea MIT_divios_burden"}
+			picture = MIT_divios_burden
+			modifier = {
+				production_factory_efficiency_gain_factor = -0.10
+				consumer_goods_factor = 0.05
+				production_speed_buildings_factor = -0.05
+				research_bonus = -0.05
+				stability_factor = -0.05
+			}
+		}
+
+		# The Konstanze Problem
+
+		MIT_the_konstanze_problem = {
+			on_add = {log = "[GetDateText]: [Root.GetName]: add idea MIT_the_konstanze_problem"}
+			picture = MIT_the_konstanze_problem
+			modifier = {
+				surrender_limit = -0.4 
+				political_power_cost = 200 
+				stability_factor = -0.10 
+				enemy_partisan_effect = 0.3 
+			}
+		}
+
+		# A Crippling Empire
+		
+		MIT_a_crippling_empire = {
+			on_add = {log = "[GetDateText]: [Root.GetName]: add idea MIT_a_crippling_empire"}
+			picture = MIT_a_crippling_empire
+			modifier = {
+				stability_factor = -0.20 
+				army_morale_factor = -0.05 
+				local_resources_factor = -0.1 
+				production_speed_infrastructure_factor = -0.5
+			}
+		}
+
+		# Egotist Army Culture
+
+		MIT_egotist_army_culture = {
+			on_add = {log = "[GetDateText]: [Root.GetName]: add idea MIT_egotist_army_culture"}
+			picture = MIT_egotist_army_culture
+			modifier = {
+				army_armor_attack_factor = -0.10 
+				army_armor_defence_factor = -0.10 
+				army_attack_factor = -0.25 
+				navy_capital_ship_attack_factor	= -0.10 
+				navy_capital_ship_defence_factor = -0.10 
+			}
+		}
+
+		MIT_cadozi_exile = {
+			on_add = {log = "[GetDateText]: [Root.GetName]: add idea MIT_egotist_army_culture"}
+			picture = MIT_egotist_army_culture
+			modifier = {
+				army_infantry_attack_factor	= -0.1
+				army_infantry_defence_factor = -0.1
+			}
+		}
+	}
+
+
+
+	### Austrian Start Lads ###

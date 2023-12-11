@@ -12,19 +12,19 @@
  
 KON:0 "Konstanze"
 KON_DEF:0 "Konstanze"
-KON_ADJ:0 "Szespin"
+KON_ADJ:0 "Konstanze"
 
 
 
 ### Focuses ###
 
- SZE_Focus_ID:0 ""
- SZE_Focus_ID_desc:0 ""
+ KON_Focus_ID:0 ""
+ KON_Focus_ID_desc:0 ""
  
 ### Ideas ###
  
- SZE_Idea_ID:0 ""
- SZE_Idea_ID_desc:0 "" 
+ KON_Idea_ID:0 ""
+ KON_Idea_ID_desc:0 "" 
 
 ### Flags ###
 

@@ -1,0 +1,42 @@
+﻿l_english:
+### BookBEHk ###
+
+### Opinions ###
+
+### Events ###
+
+### Parties ###
+
+### Country Name ###
+ 
+BEH:0 "Behren"
+BEH_DEF:0 "Behren"
+BEH_ADJ:0 "Behren"
+
+HES:0 "Hestija"
+HES_DEF:0 "Hestija"
+HES_ADJ:0 "Hestija"
+
+
+
+### Focuses ###
+
+ BEH_Focus_ID:0 ""
+ BEH_Focus_ID_desc:0 ""
+ 
+### Ideas ###
+ 
+ BEH_Idea_ID:0 ""
+ BEH_Idea_ID_desc:0 "" 
+
+### Flags ###
+
+### Tooltips ###
+
+### Companies ###
+
+### Ministers ###
+
+### Leaders ###
+
+### Tech? ###

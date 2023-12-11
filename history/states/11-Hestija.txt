@@ -1,0 +1,19 @@
+state={
+	id=11
+	name="STATE_11"
+
+	history={
+		owner = HES
+		add_core_of = HES
+
+	}
+
+	provinces={
+		5003 5412 6960 6966 6983 7000 7001 7021 7022 7041 7052 7053 7067 7086 7087 7115 7134 7145 7152 7188 7189 7203 7226 7228 
+	}
+
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

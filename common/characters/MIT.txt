@@ -1,0 +1,16 @@
+characters = {
+	MIT_Raynil_VI = {
+		name = "Raynil VI" 
+		portraits = {
+			civilian = {
+				large = GFX\leaders\MIT\Portrait_MIT_Raynil_VI.png
+			}
+		}
+		country_leader = {
+			ideology = utilitarian_despotist_subtype
+			expire = "1950.1.1.1"
+			id=-1
+		}
+	}
+}
+	

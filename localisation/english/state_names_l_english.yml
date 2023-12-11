@@ -1,49 +1,32 @@
 ﻿l_english:
-
-## KONSTANZE ##
-
- STATE_1:1 "Pashubia"
- Noelle:0 "Noelle"
- Pashubia:0 "Pashubia"
- STATE_3:0 "Eichenland"
- STATE_4:0 "Mittelmark"
- STATE_5:0 "Tannenfeld"
- STATE_6:0 "Scheier"
- STATE_7:0 "Nordmark"
- STATE_8:0 "Bajen-Elisinburg"
- STATE_9:0 "Hohenplatz"
- STATE_10:0 "Meiten"
- STATE_11:0 "Selphastin"
- Meiten:0 "Meiten"
- Selphastin:0 "Selphastin"
-
- ## MECUDIA ##
-
- STATE_13:0 "Eastern Mecudia"
- STATE_14:0 "Namoduz"
- STATE_15:0 "Bozakot"
- STATE_27:0 "Primorekin"
- STATE_28:0 "Southeast Mecudia"
- STATE_26:0 "Askorven"
- STATE_16:0 "Mecudial Frontier"
- STATE_17:0 "Mecudial Corridor"
-
-
-
-## SZESPIN ##
-
- STATE_12:0 "Rilkymet"
- STATE_18:0 "Nystaml"
- STATE_19:0 "Arsul"
- STATE_20:0 "Uskvory"
- STATE_21:0 "Jylczes"
- STATE_22:0 "Dreslac"
- STATE_23:0 "Clyczryl"
+ STATE_1:1 "Escana"
+ STATE_2:0 "Balteca"
+ STATE_3:0 "Kanta"
+ STATE_4:0 "Artopa"
+ STATE_5:0 "Mittsali"
+ STATE_6:0 "Meserola"
+ STATE_7:0 "Pelles"
+ STATE_8:0 "Suicia"
+ STATE_9:0 "Konstanze"
+ STATE_10:0 "Behren"
+ STATE_11:0 "Hestija"
+ STATE_12:0 "Verkijurd"
+ STATE_13:0 "Cyduria"
+ STATE_14:0 "Talshar"
+ STATE_15:1 "Vadianni"
+ STATE_16:1 "Varinii"
+ STATE_17:1 "East Battigau"
+ STATE_18:1 "Divio"
+ STATE_19:1 "Urbija"
+ STATE_20:1 "Lyngaria"
+ STATE_21:1 "Tiirini"
+ STATE_22:1 "Mittsalian Suicia"
+ STATE_23:1 "Elslan"
  STATE_24:0 "Mosvryl"
  STATE_25:0 "Pyrkel"
-
-## AURISSOS ##
-
+ STATE_26:0 "Askorven"
+ STATE_27:0 "Primorekin"
+ STATE_28:0 "Southeast Mecudia"
  STATE_29:0 "Pelsis"
  STATE_30:0 "Taurica"
  STATE_31:0 "Musszka"
@@ -65,9 +48,6 @@
  STATE_47:0 "Aurissote Subtorian Isle"
  STATE_48:0 "Cresmias"
  STATE_104:0 "South Epaktimosz"
-
-## CARRISIA ##
-
  STATE_49:0 "Ildovica"
  STATE_50:0 "Altinado"
  STATE_51:0 "Steydia"
@@ -84,9 +64,6 @@
  STATE_62:0 "Canzk"
  STATE_63:0 "Leyre"
  STATE_64:0 "Karis"
-
-## PASIA ##
-
  STATE_65:0 "Aveirta"
  STATE_66:0 "Salfuzo"
  STATE_67:0 "Lenduo"
@@ -109,5 +86,3 @@
  STATE_84:0 "Pasian Frontier"
  STATE_85:0 "Venonice"
  STATE_86:0 "Zavun Coast"
-
-

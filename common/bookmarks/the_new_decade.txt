@@ -4,11 +4,11 @@ bookmarks = {
 		desc = "HM_DESC"
 		date = 1915.1.1.12
 		picture = "GFX_select_date_1936"
-		default_country = "CAR"
+		default_country = "MIT"
 		default = yes
 		
-		"CAR"={
-			history = "CAR_HM_DESC"
+		"MIT"={
+			history = "MIT_HM_DESC"
 			ideas = {
 				
 			}

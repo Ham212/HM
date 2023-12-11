@@ -1,0 +1,53 @@
+﻿l_english:
+
+### Bookmark ###
+
+### Opinions ###
+
+### Events ###
+
+### Parties ###
+
+### Country Name ###
+ 
+MIT:0 "Mittsali"
+MIT_DEF:0 "Mittsali"
+MIT_ADJ:0 "Mittsalian"
+
+MIT_start_faction:0 "Auctoritatim Mittsali"
+
+### Focuses ###
+
+ MIT_Focus_ID:0 ""
+ MIT_Focus_ID_desc:0 ""
+ 
+### Ideas ###
+ 
+ MIT_divios_burden:0 "Divio's Burden"
+ MIT_divios_burden_desc:0 "The Collapse of the Mittsalian economy in 1888 under Divio IV still peers its shadowy head over Mittsali, with the failures of the previous king not being forgotten by the people who now deal with the consequences." 
+
+ MIT_the_konstanze_problem:0 "The Konstanze Problem"
+ MIT_the_konstanze_problem_desc:0 "While Mittsali won the battle against Konstanze, their everlasting campaign for reunification has slighted Mittsali’s ability to effectively thrive." 
+
+ MIT_egotist_army_culture:0 "Egotist Army Culture"
+ MIT_egotist_army_culture_desc:0 "Many victories, both recent and deeply in the past, have created a rooted egotist army culture within both the army and navy of Mittsali." 
+
+ MIT_a_crippling_empire:0 "A Crippling Empire"
+ MIT_a_crippling_empire_desc:0 "Mittsali over the last 50 years has done nothing but grow and prosper over the world’s many concerts, however, as times change, the weight of its aggressive expansion has come back to haunt the Mittsalian crown." 
+
+ MIT_cadozi_exile:0 "Cadozi's Exile"
+ MIT_cadozi_exile_desc:0 ""
+
+### Flags ###
+
+### Tooltips ###
+
+### Companies ###
+
+### Ministers ###
+
+### Leaders ###
+
+### Tech? ###
+
+ VICTORY_POINTS_1756: "Tiriin"

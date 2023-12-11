@@ -1,39 +1,82 @@
 #reload countrycolors
 
 #WEST ARTOPA
-AUR = {
-	color = rgb { 129 153 83  }
-	color_ui = rgb { 80 159 90  }
+MIT = {
+	color = rgb { 102 61 61 }
+	color_ui = rgb { 102 61 61  }
+}
+
+MES = {
+	color = rgb { 115 75 75 }
+	color_ui = rgb { 115 75 75 }
+}
+
+SUI= {
+	color = rgb { 115 75 75 }
+	color_ui = rgb { 115 75 75 }
+}
+
+PEL = {
+	color = rgb { 73 99 111 }
+	color_ui = rgb { 73 99 111 }
 }
 
 KON = {
-	color = rgb { 47 81 135 }
-	color_ui = rgb { 47 81 135 }
+	color = rgb { 83 94 118 }
+	color_ui = rgb { 283 94 118 }
 }
 
-SZE = {
-	color = rgb { 179 63 25 }
-	color_ui = rgb { 179 63 25 }
+BEH = {
+	color = rgb { 113 88 112 }
+	color_ui = rgb { 113 88 112 }
 }
 
-MEC = {
-	color = rgb { 140 59 124 }
-	color_ui = rgb { 128 70 129 }
+HES = {
+	color = rgb { 131 85 84 }
+	color_ui = rgb { 131 85 84 }
 }
 
-CAR = {
-	color = rgb { 242 205 94 }
-	color_ui = rgb { 242 205 94 }
+TAL = {
+	color = rgb { 119 135 156 }
+	color_ui = rgb { 119 135 156 }
 }
 
-PAS = {
-	color = rgb { 161 69 83 }
-	color_ui = rgb { 161 69 83 }
+VER = {
+	color = rgb { 93 80 96 }
+	color_ui = rgb { 93 80 96 }
 }
 
-MAR = {
-	color = rgb { 85 98 161 }
-	color_ui = rgb { 46 127 148 }
+CYD = {
+	color = rgb { 140 149 123 }
+	color_ui = rgb { 140 149 123 }
 }
 
+ELS = {
+	color = rgb { 196 146 102 }
+	color_ui = rgb { 196 146 102 }
+}
 
+URB = {
+	color = rgb { 117 91 80 }
+	color_ui = rgb { 117 91 80 }
+}
+
+LYN = {
+	color = rgb { 220 197 146 }
+	color_ui = rgb { 220 197 146 }
+}
+
+ARI = {
+	color = rgb { 95 104 78 }
+	color_ui = rgb { 95 104 78 }
+}
+
+ARR = {
+	color = rgb { 109 117 94 }
+	color_ui = rgb { 109 117 94 }
+}
+
+AVI = {
+	color = rgb { 230 223 210 }
+	color_ui = rgb { 230 223 210 }
+}

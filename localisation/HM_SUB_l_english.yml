@@ -1,0 +1,53 @@
+﻿l_english:
+
+### Bookmark ###
+
+### Opinions ###
+
+### Events ###
+
+### Parties ###
+
+### Country Name ###
+ 
+LYN:0 "Lyngaria"
+LYN_DEF:0 "Lyngaria"
+LYN_ADJ:0 "Lyngaria"
+
+URB:0 "Urbija"
+URB_DEF:0 "Urbija"
+URB_ADJ:0 "Urbija"
+
+ARI:0 "Ariaphisc"
+ARI_DEF:0 "Ariaphisc"
+ARI_ADJ:0 "Ariaphisc"
+
+AVI:0 "Avirault"
+AVI_DEF:0 "Avirault"
+AVI_ADJ:0 "Avirault"
+
+ARR:0 "Ariaphisc Revolt"
+ARR_DEF:0 "Ariaphisc Revolt"
+ARR_ADJ:0 "Ariaphisc Revolt"
+
+### Focuses ###
+
+ CAR_Focus_ID:0 ""
+ CAR_Focus_ID_desc:0 ""
+ 
+### Ideas ###
+ 
+ CAR_Idea_ID:0 ""
+ CAR_Idea_ID_desc:0 "" 
+
+### Flags ###
+
+### Tooltips ###
+
+### Companies ###
+
+### Ministers ###
+
+### Leaders ###
+
+### Tech? ###

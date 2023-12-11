@@ -1,0 +1,16 @@
+characters = {
+	MIT_Raffaele_Ili_Demiis = {
+		name = "Raffaele Ili Demiis" 
+		portraits = {
+			civilian = {
+				large = GFX\leaders\MES\Portrait_MIT_Raffaele_Demiis.png
+			}
+		}
+		country_leader = {
+			ideology = utilitarian_despotist_subtype
+			expire = "1950.1.1.1"
+			id=-1
+		}
+	}
+}
+	
