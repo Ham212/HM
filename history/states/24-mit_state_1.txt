@@ -1,19 +1,19 @@
+
 state={
-	id=22
-	name="STATE_22"
+	id=24
+	name="STATE_24"
 
 	history={
 		owner = MIT
 		add_core_of = MIT
 
 	}
-	
-	provinces={
-		2605 2895 2918 4671 8040 8116 8123 8167 8168 8261 
-	}
 
-	manpower=1000000
+	provinces={
+		1543 2010 2653 2679 5068 5129 8449 8457 8557 8576 8685 
+	}
+	manpower=250000
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=town
 	local_supplies=0.000
 }

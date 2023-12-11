@@ -1,0 +1,17 @@
+state={
+	id=35
+	name="STATE_35"
+	provinces={
+		1859 2801 2945 3629 4005 4405 4774 4989 8616 8617 8655 8667 8673 8686 8715 8722 8723 8753 8764 8773 8780 8856 
+	}
+	history = {
+		owner = MIT
+		add_core_of = MIT
+	}
+
+	manpower = 250000
+
+	state_category = rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,17 @@
+state={
+	id=34
+	name="STATE_34"
+	provinces={
+		2241 3580 4388 8306 8364 8448 8506 8549 8550 8607 
+	}
+	history = {
+		owner = MIT
+		add_core_of = MIT
+	}
+
+	manpower = 250000
+
+	state_category = large_city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
