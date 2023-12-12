@@ -22,7 +22,7 @@ AVI = "countries/HM_West_Art.txt" # Avirault
 
 # EAST ARTOPA
 
-
+XIS = "countries/HM_East_Art.text" # Xishan
 
 # BALTECA
 
@@ -33,3 +33,19 @@ AVI = "countries/HM_West_Art.txt" # Avirault
 
 
 # KANTA
+
+GER = "countries/HM_West_Art.txt"
+USA = "countries/HM_West_Art.txt"
+ITA = "countries/HM_West_Art.txt"
+FRA = "countries/HM_West_Art.txt"
+JAP = "countries/HM_West_Art.txt"
+SOV = "countries/HM_West_Art.txt"
+SIK = "countries/HM_West_Art.txt"
+MAN = "countries/HM_West_Art.txt"
+MEN = "countries/HM_West_Art.txt"
+YUN = "countries/HM_West_Art.txt"
+SHX = "countries/HM_West_Art.txt"
+ENG = "countries/HM_West_Art.txt"
+XSM = "countries/HM_West_Art.txt"
+GXC = "countries/HM_West_Art.txt"
+ETH = "countries/HM_West_Art.txt"

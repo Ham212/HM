@@ -80,3 +80,8 @@ AVI = {
 	color = rgb { 230 223 210 }
 	color_ui = rgb { 230 223 210 }
 }
+
+XIS = {
+	color = rgb { 172 122 123 }
+	color_ui = rgb { 172 122 123 }
+}

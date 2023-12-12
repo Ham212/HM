@@ -12,5 +12,21 @@ characters = {
 			id=-1
 		}
 	}
+
+	MIT_Luciano_Ili_Vittorin = {
+		name = "Luciano Ili Vittorin" 
+		portraits = {
+			civilian = {
+				large = GFX\leaders\MIT\Portrait_MIT_Luciano_Ili_Vittorin.png
+			}
+		}
+		corps_commander = {
+    		skill = 2
+    		attack_skill = 1
+    		defense_skill = 2
+    		planning_skill = 3
+    		logistics_skill = 1
+		}
+	}
 }
 	
