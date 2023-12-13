@@ -1,0 +1,13 @@
+spriteTypes = {	
+
+	spriteType = {
+		name = "GFX_idea_MIT_the_konstanze_problem"
+		texturefile = "gfx/interface/ideas/MIT/MIT_the_konstanze_problem.png"
+	}	
+
+	spriteType = {
+		name = "GFX_idea_MIT_egotist_army_culture"
+		texturefile = "gfx/interface/ideas/MIT/MIT_egotist_army_culture.png"
+	}	
+
+}

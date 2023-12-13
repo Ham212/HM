@@ -3,7 +3,6 @@
  STATE_2:0 "Balteca"
  STATE_3:0 "Kanta"
  STATE_4:0 "Artopa"
-
  STATE_6:0 "Meserola"
  STATE_7:0 "Pelles"
  STATE_8:0 "Suicia"
@@ -13,12 +12,9 @@
  STATE_12:0 "Verkijurd"
  STATE_13:0 "Cyduria"
  STATE_14:0 "Talshar"
-
  STATE_19:1 "Urbija"
  STATE_20:1 "Lyngaria"
-
  STATE_23:1 "Elslan"
-
  STATE_5:0 "Mittsali"
  STATE_15:1 "Vadianni"
  STATE_16:1 "Varinii"
@@ -42,15 +38,14 @@
  STATE_37:0 "Gaszika"
  STATE_38:0 "Elbrillia"
  STATE_39:0 "Itaii"
-
  STATE_40:0 "Bassos"
  STATE_41:0 "Nailimesz"
  STATE_42:0 "Falestinoi"
  STATE_43:0 "Magnathepsis"
- STATE_44:0 "Evras"
- STATE_45:0 "Auvedia"
- STATE_46:0 "Haporisia"
- STATE_47:0 "Aurissote Subtorian Isle"
+ STATE_44:1 "Zelzno"
+ STATE_45:1 "Surovia"
+ STATE_46:1 "Iadanzia"
+ STATE_47:1 "Talshar Balteca"
  STATE_48:0 "Cresmias"
  STATE_104:0 "South Epaktimosz"
  STATE_49:0 "Ildovica"

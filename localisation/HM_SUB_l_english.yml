@@ -30,6 +30,15 @@ ARR:0 "Ariaphisc Revolt"
 ARR_DEF:0 "Ariaphisc Revolt"
 ARR_ADJ:0 "Ariaphisc Revolt"
 
+ZEL:0 "Commonwealth of Zelzno"
+ZEL_DEF:0 "Zelzno"
+ZEL_ADJ:0 "Zelzno"
+
+XIS:0 "Peasant Revolt of Xishan"
+XIS_DEF:0 "Peasant Revolt of Xishan"
+XIS_ADJ:0 "Peasant Revolt of Xishan"
+
+
 ### Focuses ###
 
  CAR_Focus_ID:0 ""

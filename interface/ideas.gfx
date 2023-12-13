@@ -1,0 +1,8 @@
+spriteTypes = {	
+
+	spriteType = {
+		name = "GFX_idea_the_konstanze_problem"
+		texturefile = "gfx/interface/ideas/MIT/the_konstanze_problem.dds"
+	}	
+
+}
