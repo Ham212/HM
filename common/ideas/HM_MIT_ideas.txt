@@ -61,14 +61,15 @@ ideas = {
 		}
 
 		MIT_cadozi_exile = {
-			on_add = {log = "[GetDateText]: [Root.GetName]: add idea MIT_egotist_army_culture"}
-			picture = MIT_egotist_army_culture
+			on_add = {log = "[GetDateText]: [Root.GetName]: add idea MIT_cadozi_exile"}
+			picture = MIT_cadozi_exile
 			modifier = {
 				army_infantry_attack_factor	= -0.1
 				army_infantry_defence_factor = -0.1
 			}
 		}
 	}
+}
 
 
 

@@ -81,7 +81,23 @@ AVI = {
 	color_ui = rgb { 230 223 210 }
 }
 
+ZEL = {
+	color = rgb { 151 104 147 }
+	color_ui = rgb { 151 104 147 }
+}
+
+SUR = {
+	color = rgb { 87 92 77 }
+	color_ui = rgb { 87 92 77 }
+}
+
 XIS = {
 	color = rgb { 172 122 123 }
 	color_ui = rgb { 172 122 123 }
 }
+
+IAD = {
+	color = rgb { 115 75 75 }
+	color_ui = rgb { 115 75 75 }
+}
+

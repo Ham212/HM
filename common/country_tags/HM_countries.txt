@@ -19,12 +19,17 @@ ARI = "countries/HM_West_Art.txt" # Ariaphisc
 ARR = "countries/HM_West_Art.txt" # Ariaphisc Revolt
 AVI = "countries/HM_West_Art.txt" # Avirault
 
+ZEL = "countries/HM_West_Art.txt" # Zelzno
+SUR = "countries/HM_West_Art.txt" # Surovia
+
 
 # EAST ARTOPA
 
 XIS = "countries/HM_East_Art.text" # Xishan
 
 # BALTECA
+
+IAD = "countries/HM_Balteca.text" # Iadanzia
 
 
 
