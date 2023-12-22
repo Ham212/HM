@@ -1,0 +1,15 @@
+state={
+	id=622
+	name="STATE_622"
+	provinces={
+		238 310 337 671 1304 1406 1409 1766 1775 2445 2873 3414 3488 3509 3931 4804 4866 6987 7205 14517 14525 14548 14564 14588 14599 14602 14604 14608 14613 14628 14630 14636 14642 14646 14647 14661 14672 14675 
+	}
+	history = {
+		owner = NBG
+		add_core_of = NBG
+	}
+	manpower = 2975723
+	state_category = town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,10 @@
+state={
+	id=806
+	name="STATE_806"
+	provinces={
+		218 2125 3698 3724 4102 5612 6187 6889 7040 13838 13883 13995 14053 14087 14116 14119 14132 14157 14174 14210 14231 14258 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

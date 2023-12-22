@@ -1,0 +1,15 @@
+state={
+	id=248
+	name="STATE_248"
+	provinces={
+		3458 3651 5417 5823 6899 7710 7715 7726 7740 7752 7758 7763 7767 7778 7781 7801 19644 
+	}
+	history = {
+		owner = SAC
+		add_core_of = SAC
+	}
+	manpower=100
+    state_category = rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

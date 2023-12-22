@@ -1,0 +1,15 @@
+state={
+	id=92
+	name="STATE_92"
+	provinces={
+		1239 2039 4205 10847 10898 10899 10945 10946 11031 11039 11076 11096 16228 
+	}
+	history = {
+		owner = AUR
+		add_core_of = AUR
+	}
+	manpower=1566232
+	state_category = city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

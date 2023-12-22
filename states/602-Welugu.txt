@@ -1,0 +1,15 @@
+state={
+	id=602
+	name="STATE_602"
+	provinces={
+		704 940 2688 5903 14912 14988 
+	}
+	history = {
+		owner = AMJ
+		add_core_of = AMJ
+	}
+	manpower=4596235
+	state_category = town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

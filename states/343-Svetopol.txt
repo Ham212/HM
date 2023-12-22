@@ -1,0 +1,15 @@
+state={
+	id=343
+	name="STATE_343"
+	provinces={
+		5663 
+	}
+	history = {
+		owner = SSU
+		add_core_of = SSU
+	}
+	manpower=1527563
+	state_category = city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

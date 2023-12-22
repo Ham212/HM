@@ -1,0 +1,14 @@
+state={
+	id=398
+	name="STATE_398"
+	provinces={
+		64 636 1232 1358 3226 3853 4237 7597 7598 7633 7674 7684 
+	}
+	history = {
+		owner = SUR
+		add_core_of = SUR
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

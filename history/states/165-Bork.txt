@@ -1,0 +1,19 @@
+
+state={
+	id=165
+	name="STATE_165"
+
+	history={
+		owner = add_core_of
+		= HES
+
+	}
+
+	provinces={
+		440 6548 8435 8455 8466 8488 8516 8521 8561 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

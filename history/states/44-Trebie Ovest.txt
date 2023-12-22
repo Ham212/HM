@@ -1,0 +1,19 @@
+
+state={
+	id=44
+	name="STATE_44"
+
+	history={
+		owner = " "
+		add_core_of = OSA
+
+	}
+
+	provinces={
+		252 1174 1265 1923 3242 3928 11394 11454 11470 11471 11529 11581 11596 11624 11631 11679 11711 11737 11763 11773 11817 11818 11833 11834 11857 11858 11889 11922 16234 16242 16253 16262 
+	}
+	manpower=985232
+	state_category=town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

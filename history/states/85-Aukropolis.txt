@@ -1,0 +1,16 @@
+
+state={
+	id=85
+	name="STATE_85"
+	provinces={
+		2826 3274 3377 4752 6857 6999 11230 11273 11281 11306 11330 11351 11376 11396 11397 11408 11441 11455 11503 11536 
+	}
+	history = {
+		owner = AUR
+		add_core_of = AUR
+	}
+	manpower=3986321
+	state_category = city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

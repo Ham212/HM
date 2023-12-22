@@ -1,0 +1,15 @@
+state={
+	id=532
+	name="STATE_532"
+	provinces={
+		157 931 983 1748 1821 2577 2618 2963 3016 3524 4628 4832 5296 5811 5859 6220 6371 6458 6485 6732 13765 13771 13808 13830 13870 13885 13891 13914 13982 13983 
+	}
+	history = {
+		owner = KHZ
+		add_core_of = KHZ
+	}
+	manpower = 783215
+	state_category = rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

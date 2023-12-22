@@ -1,0 +1,16 @@
+
+state={
+	id=7
+	name="STATE_7"
+	provinces={
+		8208 
+	}
+	history = {
+		owner = " "
+		add_core_of = VES
+	}
+	manpower=3267342
+	state_category= metropolis
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

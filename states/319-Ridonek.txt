@@ -1,0 +1,16 @@
+state={
+	id=319
+	name="STATE_319"
+	provinces={
+		1575 2184 12142 12200 
+	}
+
+	history = {
+		owner = KOR
+		add_core_of = SIK
+	}
+	manpower = 598322
+	state_category = large_town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

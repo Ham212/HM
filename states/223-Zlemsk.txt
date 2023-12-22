@@ -1,0 +1,14 @@
+state={
+	id=223
+	name="STATE_223"
+	provinces={
+		2069 2566 3966 5712 6338 6419 9331 9350 9407 9488 9497 9506 9527 9539 9553 9554 9569 9593 9605 9606 9679 9692 9735 9772 9783 
+	}
+	history = {
+		owner = ZAV
+		add_core_of = ZAV
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

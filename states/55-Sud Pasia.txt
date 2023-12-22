@@ -1,0 +1,15 @@
+state={
+	id=55
+	name="STATE_55"
+	provinces={
+		2183 2876 3027 3659 6679 9978 9988 10024 10034 10061 10107 10121 10160 10174 10191 10230 10305 
+	}
+	history = {
+		owner = PAS
+		add_core_of = PAS
+	}
+	manpower=1521235
+	state_category = city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,15 @@
+state={
+	id=51
+	name="STATE_51"
+	provinces={
+		10980 
+	}
+	history = {
+		owner = SZE
+		add_core_of = SZE
+	}
+	manpower=1734323
+	state_category = large_city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

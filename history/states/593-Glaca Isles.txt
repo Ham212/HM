@@ -1,0 +1,16 @@
+
+state={
+	id=593
+	name="STATE_593"
+	provinces={
+		2421 4530 4641 6428 14823 14863 14897 16405 16410 
+	}
+	history = {
+		owner = WCS
+		add_core_of = WCS
+	}
+	manpower = 875225
+	state_category = town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

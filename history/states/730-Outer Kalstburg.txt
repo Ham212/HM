@@ -1,0 +1,15 @@
+state={
+	id=730
+	name="STATE_730"
+	provinces={
+		6816 12857 12960 
+	}
+	history = {
+		owner = RYK
+		add_core_of = RYK
+	}
+	manpower = 3187522
+	state_category = metropolis
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

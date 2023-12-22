@@ -1,0 +1,15 @@
+state={
+	id=148
+	name="STATE_148"
+	provinces={
+		8920 8956 8964 8971 8988 9004 9012 9013 9060 9078 
+	}
+	history = {
+		owner = MAR
+		add_core_of = MAR
+	}
+	manpower=3271573
+	state_category = city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

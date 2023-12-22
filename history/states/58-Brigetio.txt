@@ -1,0 +1,16 @@
+
+state={
+	id=58
+	name="STATE_58"
+	provinces={
+		223 1814 10051 10077 10108 10123 
+	}
+	history = {
+		owner = MES
+		add_core_of = MES
+	}
+	manpower=1552123
+	state_category = city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

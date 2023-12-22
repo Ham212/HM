@@ -1,0 +1,15 @@
+state={
+	id=736
+	name="STATE_736"
+	provinces={
+		2615 5163 12681 12733 12807 
+	}
+	history = {
+		owner = RYK
+		add_core_of = RYK
+	}
+	manpower = 2975212
+	state_category = large_city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

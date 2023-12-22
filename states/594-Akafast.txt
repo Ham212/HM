@@ -1,0 +1,15 @@
+state={
+	id=594
+	name="STATE_594"
+	provinces={
+		1960 3828 3910 4746 14831 14854 14885 
+	}
+	history = {
+		owner = WCS
+		add_core_of = WCS
+	}
+	manpower = 987572
+	state_category = rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

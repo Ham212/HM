@@ -1,0 +1,15 @@
+
+state={
+	id=159
+	name="STATE_159"
+	provinces={
+		1878 3734 3823 4518 9005 9023 9031 9088 9179 
+	}
+	history = {
+		owner = HAT
+		add_core_of = HAT
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,11 @@
+
+strategic_region={
+	id=28
+	name="STRATEGICREGION_28"
+	provinces={
+		17047 17795 18697 18759 18972 19080 
+	}
+	naval_terrain=water_fjords
+	weather={
+	}
+}

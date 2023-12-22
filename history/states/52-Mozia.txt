@@ -1,0 +1,15 @@
+state={
+	id=52
+	name="STATE_52"
+	provinces={
+		10927 
+	}
+	history = {
+		owner = PAU
+		add_core_of = PAU
+	}
+	manpower=3262167
+	state_category = metropolis
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

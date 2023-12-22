@@ -1,0 +1,16 @@
+
+state={
+	id=169
+	name="STATE_169"
+	provinces={
+		584 4356 5579 5956 6145 8375 8382 8405 8406 8421 8431 8436 8456 8494 8495 8538 
+	}
+	history = {
+		owner = POV
+		add_core_of = POV
+	}
+	manpower=100
+    state_category = rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

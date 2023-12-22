@@ -1,0 +1,14 @@
+state={
+	id=219
+	name="STATE_219"
+	provinces={
+		3264 9630 9759 
+	}
+	history = {
+		owner = ZAV
+		add_core_of = ZAV
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

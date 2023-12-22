@@ -1,0 +1,16 @@
+
+state={
+	id=20
+	name="STATE_20"
+	provinces={
+		1346 2869 3871 6470 8954 8969 9011 9022 9076 9098 9139 9162 9185 
+	}
+	history = {
+		owner=SYL
+		add_core_of = SYL
+	}
+	manpower=492511
+	state_category=rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

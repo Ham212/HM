@@ -1,0 +1,16 @@
+state={
+	id=353
+	name="STATE_353"
+	provinces={
+		3025 3385 7306 13399 13410 13469 13490 
+	}
+	history = {
+		owner = ECR
+		add_core_of = ECR
+		add_core_of = KHZ
+	}
+	manpower = 3251252
+	state_category = large_city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

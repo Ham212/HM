@@ -1,0 +1,14 @@
+state={
+	id=174
+	name="STATE_174"
+	provinces={
+		3280 5110 8325 8443 8468 8500 
+	}
+	history = {
+		owner = NPV
+		add_core_of = NPV
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

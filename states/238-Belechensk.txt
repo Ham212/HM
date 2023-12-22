@@ -1,0 +1,14 @@
+state={
+	id=238
+	name="STATE_238"
+	provinces={
+		986 1365 1449 1560 2101 2203 2972 3233 4874 5491 6045 6771 7101 7271 9256 9272 9333 9371 9415 9416 9481 9508 9517 9542 9548 9556 9575 9609 9643 9666 9708 9737 9749 9871 9918 
+	}
+	history = {
+		owner = MOL
+		add_core_of = MOL
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

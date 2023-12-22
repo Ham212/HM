@@ -1,0 +1,15 @@
+state={
+	id=40
+	name="STATE_40"
+	provinces={
+		4011 4058 5059 5479 11774 11812 11813 11861 11904 12084 16244 16254 16255 16263 
+	}
+	history = {
+		owner = SYL
+		add_core_of = SYL
+	}
+	manpower=1101823
+	state_category = town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

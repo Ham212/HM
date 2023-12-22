@@ -1,0 +1,15 @@
+state={
+	id=123
+	name="STATE_123"
+	provinces={
+		116 1631 2028 6550 10862 10875 10901 10902 10919 11041 11073 
+	}
+	history = {
+		owner = LUC
+		add_core_of = LUC
+	}
+	manpower=765232
+	state_category = town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

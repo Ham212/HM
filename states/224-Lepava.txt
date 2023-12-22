@@ -1,0 +1,14 @@
+state={
+	id=224
+	name="STATE_224"
+	provinces={
+		9640 9678 9691 9724 9747 9748 9760 9782 9792 9828 9841 9849 
+	}
+	history = {
+		owner = ZAV
+		add_core_of = ZAV
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

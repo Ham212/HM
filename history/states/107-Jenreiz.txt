@@ -1,0 +1,15 @@
+
+state={
+	id=107
+	name="STATE_107"
+	provinces={
+		3505 5819 6814 10804 10825 10851 
+	}
+	history = {
+		owner = MEC
+		add_core_of = MEC
+	}
+	manpower=456773
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

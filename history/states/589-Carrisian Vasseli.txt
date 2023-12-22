@@ -1,0 +1,16 @@
+
+state={
+	id=589
+	name="STATE_589"
+	provinces={
+		593 701 962 2602 2652 2657 3406 4063 5914 7260 15145 15150 15165 15184 15230 15243 15267 15286 
+	}
+	history = {
+		owner = CVL
+		add_core_of = CVL
+	}
+	manpower = 757232
+	state_category = town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,15 @@
+state={
+	id=134
+	name="STATE_134"
+	provinces={
+		2291 3064 3275 3441 5029 6837 11475 11492 11504 11525 11550 11569 11599 11600 11606 11618 11626 11727 
+	}
+	history = {
+		owner = CAR
+		add_core_of = CAR
+	}
+	manpower=958232
+	state_category = city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,16 @@
+state={
+	id=32
+	name="STATE_32"
+	provinces={
+		2385 3133 3140 3972 4798 5010 5601 5827 7321 7798 7823 7832 7843 7865 7874 7875 7876 7899 7900 7905 7921 7961 7972 8012 8026 8044 16177 
+	}
+	history = {
+		owner=HAE
+		add_core_of = HAE
+		add_core_of = VIK
+	}
+	manpower=1198232
+	state_category = large_town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

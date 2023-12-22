@@ -1,0 +1,15 @@
+state={
+	id=218
+	name="STATE_218"
+	provinces={
+		2954 3036 3993 4064 6465 10320 10389 10496 10605 10738 
+	}
+	history = {
+		owner = MGZ
+		add_core_of = MGZ
+	}
+	manpower=218673
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

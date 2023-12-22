@@ -7,7 +7,7 @@ tags={
 	"Events"
 	"Ideologies"
 }
-name="Ruina Imperii"
+name="In the Shadow of Giants"
 supported_version="1.13.*"
 path="C:/Users/Ham/Documents/Paradox Interactive/Hearts of Iron IV/mod/RI"
 replace_path="common/bookmarks"

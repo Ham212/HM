@@ -1,0 +1,16 @@
+
+state={
+	id=389
+	name="STATE_389"
+	provinces={
+		706 2165 2236 2349 2417 4229 4939 5209 7207 7997 8004 8047 8048 8061 
+	}
+	history = {
+		owner = SUR
+		add_core_of = SUR
+	}
+	manpower=100
+    state_category = rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

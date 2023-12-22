@@ -1,0 +1,15 @@
+state={
+	id=514
+	name="STATE_514"
+	provinces={
+		2307 2709 3447 5318 13542 13553 13559 13605 
+	}
+	history = {
+		owner = ATK
+		add_core_of = ATK
+	}
+	manpower = 58275
+	state_category = rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,16 @@
+
+state={
+	id=63
+	name="STATE_63"
+	provinces={
+		3187 8808 8864 8916 8963 8986 9003 
+	}
+	history = {
+		owner = MIT
+		add_core_of = MIT
+	}
+	manpower=4216342
+	state_category = metropolis
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

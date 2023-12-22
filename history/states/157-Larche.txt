@@ -1,0 +1,19 @@
+
+state={
+	id=157
+	name="STATE_157"
+
+	history={
+		owner = MAR
+		add_core_of = MAR
+
+	}
+
+	provinces={
+		465 2359 6541 6838 8515 8520 8537 8560 8573 8574 8608 8635 
+	}
+	manpower=1198572
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

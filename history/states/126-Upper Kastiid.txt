@@ -1,0 +1,15 @@
+state={
+	id=126
+	name="STATE_126"
+	provinces={
+		1919 2708 7076 7132 11566 11567 11598 11617 11632 11633 11651 11658 11664 11673 11674 11685 11701 11702 11712 11718 11719 11722 11726 
+	}
+	history = {
+		owner = CAR
+		add_core_of = CAR
+	}
+	manpower=3623212
+	state_category = metropolis
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

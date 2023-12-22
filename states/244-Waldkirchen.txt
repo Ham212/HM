@@ -1,0 +1,15 @@
+
+state={
+	id=244
+	name="STATE_244"
+	provinces={
+		1875 4027 4349 5857 7930 7931 7963 7976 7985 
+	}
+	history = {
+		owner = SAC
+		add_core_of = SAC
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

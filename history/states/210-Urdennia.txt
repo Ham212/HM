@@ -1,0 +1,14 @@
+state={
+	id=210
+	name="STATE_210"
+	provinces={
+		1930 3379 4250 5468 6010 6689 6834 6909 10765 10790 10831 10877 10884 10921 10966 10991 11047 
+	}
+	history = {
+		owner = MIJ
+		add_core_of = MIJ
+	}
+	manpower=298631
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,19 @@
+
+state={
+	id=322
+	name="STATE_322"
+
+	history={
+		owner = 
+		add_core_of = SIK
+
+	}
+
+	provinces={
+		2812 5933 6930 7186 11908 11934 11948 11973 11980 12000 12030 12047 12071 12127 
+	}
+	manpower=772322
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

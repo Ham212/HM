@@ -1,0 +1,15 @@
+state={
+	id=127
+	name="STATE_127"
+	provinces={
+		2169 2748 3231 4575 6169 7192 11759 11775 11782 11862 11872 11905 11906 11964 11997 11998 12028 
+	}
+	history = {
+		owner = CAR
+		add_core_of = CAR
+	}
+	manpower=2121321
+	state_category = city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

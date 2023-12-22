@@ -1,0 +1,15 @@
+state={
+	id=240
+	name="STATE_240"
+	provinces={
+		1102 1511 3083 3258 4225 4914 5415 5664 6043 6343 6594 8782 8859 8922 8935 8944 8945 9015 
+	}
+	history = {
+		owner = MOL
+		add_core_of = MOL
+	}
+	manpower=100
+    state_category = rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

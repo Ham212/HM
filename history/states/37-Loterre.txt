@@ -1,0 +1,15 @@
+state={
+	id=37
+	name="STATE_37"
+	provinces={
+		1431 3873 6705 6854 7193 9287 9420 9525 9536 9564 9603 9615 9703 9723 9757 9778 9836 9837 
+	}
+	history = {
+		owner = " "
+		add_core_of = SYL
+	}
+	manpower=521366
+	state_category = small_island
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

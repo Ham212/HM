@@ -1,0 +1,16 @@
+
+state={
+	id=610
+	name="STATE_610"
+	provinces={
+		913 1140 1704 2381 2464 3435 3673 4318 5210 6736 14770 14806 14844 14855 14864 14878 14886 19725 
+	}
+	history = {
+		owner = AMJ
+		add_core_of = AMJ
+	}
+	manpower = 1298525
+	state_category = rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

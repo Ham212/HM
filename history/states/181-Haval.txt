@@ -1,0 +1,15 @@
+state={
+	id=181
+	name="STATE_181"
+	provinces={
+		6103 8118 8166 
+	}
+	history = {
+		owner = NPV
+		add_core_of = NPV
+	}
+	manpower=100
+    state_category = rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

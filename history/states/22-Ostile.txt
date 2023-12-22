@@ -1,0 +1,14 @@
+state={
+	id=22
+	name="STATE_22"
+	provinces={
+		9316 9328 9347 9376 9389 9426 9448 9462 
+	}
+	history = {
+		owner = " "
+		add_core_of = SYL
+	}
+	manpower=637568
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

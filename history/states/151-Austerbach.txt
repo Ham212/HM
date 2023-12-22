@@ -1,0 +1,19 @@
+
+state={
+	id=151
+	name="STATE_151"
+
+	history={
+		owner = ELS
+		add_core_of = ELS
+
+	}
+
+	provinces={
+		269 3772 4995 8646 8679 8693 8713 
+	}
+	manpower=6387634
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+	local_supplies=0.000
+}

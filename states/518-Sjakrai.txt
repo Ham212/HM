@@ -1,0 +1,11 @@
+state={
+	id=518
+	name="STATE_518"
+	provinces={
+		95 158 685 1243 1471 2142 2175 2362 2394 2450 2779 3035 3132 3508 3836 4002 4392 4992 6567 6669 13293 13456 13461 13579 13595 13609 13625 13659 13680 13712 
+	}
+	impassable = yes
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

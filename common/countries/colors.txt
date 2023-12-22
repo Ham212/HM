@@ -1,12 +1,18 @@
 #reload countrycolors
 
-#WEST ARTOPA
+## WEST ARTOPA ##
+
 MIT = {
 	color = rgb { 102 61 61 }
 	color_ui = rgb { 102 61 61  }
 }
 
 MES = {
+	color = rgb { 115 75 75 }
+	color_ui = rgb { 115 75 75 }
+}
+
+BAT = {
 	color = rgb { 115 75 75 }
 	color_ui = rgb { 115 75 75 }
 }
@@ -91,13 +97,41 @@ SUR = {
 	color_ui = rgb { 87 92 77 }
 }
 
+SIL = {
+	color = rgb { 196 163 114 }
+	color_ui = rgb { 196 163 114 }
+}
+
+## East Artopa ##
+
 XIS = {
 	color = rgb { 172 122 123 }
 	color_ui = rgb { 172 122 123 }
 }
+
+ASA = {
+	color = rgb { 58 57 52 }
+	color_ui = rgb { 58 57 52 }
+}
+
+JIN = {
+	color = rgb { 232 205 141 }
+	color_ui = rgb { 232 205 141 }
+}
+
+## Balteca ##
 
 IAD = {
 	color = rgb { 115 75 75 }
 	color_ui = rgb { 115 75 75 }
 }
 
+WIS = {
+	color = rgb { 217 193 137 }
+	color_ui = rgb { 217 193 137 }
+}
+
+ISI = {
+	color = rgb { 203 177 117 }
+	color_ui = rgb { 203 177 117 }
+}

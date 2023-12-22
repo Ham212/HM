@@ -1,0 +1,15 @@
+
+state={
+	id=621
+	name="STATE_621"
+	provinces={
+		111 730 1034 1515 1999 2818 2950 3213 3728 4347 4968 5588 5647 5929 6596 14629 14668 14688 14691 14734 14758 14781 14800 14801 19724 
+	}
+	history = {
+		owner = NBG
+		add_core_of = NBG
+	}
+	manpower = 1587523
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

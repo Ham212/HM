@@ -1,0 +1,15 @@
+state={
+	id=272
+	name="STATE_272"
+	provinces={
+		575 848 857 873 1012 1152 1754 2368 2590 2609 3104 3144 3550 4077 5127 5351 6242 6353 6560 6677 7422 7433 7436 7437 7448 7449 7459 7463 7466 7473 7477 7479 7482 7490 7493 7502 7503 7541 7546 7553 7557 19624 19626 19628 
+	}
+	history = {
+		owner = AES
+		add_core_of = AES
+	}
+	manpower=879634
+	state_category = town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

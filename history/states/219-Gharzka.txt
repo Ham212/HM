@@ -1,0 +1,15 @@
+state={
+	id=219
+	name="STATE_219"
+	provinces={
+		3264 9630 9759 
+	}
+	history = {
+		owner = MIT
+		add_core_of = MIT
+	}
+	manpower=563785
+	state_category = town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

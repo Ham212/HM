@@ -1,0 +1,15 @@
+state={
+	id=83
+	name="STATE_83"
+	provinces={
+		5082 11111 11126 11149 11154 11178 11199 11207 11229 11244 11264 
+	}
+	history = {
+		owner = PAU
+		add_core_of = PAU
+	}
+	manpower=866734
+	state_category = town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

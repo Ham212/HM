@@ -1,0 +1,15 @@
+state={
+	id=19
+	name="STATE_19"
+	provinces={
+		1302 2789 4426 4886 6078 6311 8822 8823 8856 8898 8962 8984 9029 9085 
+	}
+	history = {
+		owner=SYL
+		add_core_of = SYL
+	}
+	manpower=315631
+	state_category = rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

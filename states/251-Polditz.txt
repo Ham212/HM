@@ -1,0 +1,14 @@
+state={
+	id=251
+	name="STATE_251"
+	provinces={
+		1259 4560 5141 6319 7279 7727 7741 7745 7756 7760 7775 7777 7782 7791 7795 7815 7830 
+	}
+	history = {
+		owner = SSL
+		add_core_of = SSL
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

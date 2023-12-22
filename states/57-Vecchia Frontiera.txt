@@ -1,0 +1,15 @@
+state={
+	id=57
+	name="STATE_57"
+	provinces={
+		2710 4698 6046 9746 9797 9826 9838 9867 9876 9969 
+	}
+	history = {
+		owner = PAS
+		add_core_of = PAS
+	}
+	manpower=578453
+	state_category = rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

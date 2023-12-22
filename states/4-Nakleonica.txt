@@ -1,0 +1,15 @@
+state={
+	id=4
+	name="STATE_4"
+	provinces={
+		1532 3416 10619 
+	}
+	history = {
+		owner=AUR
+		add_core_of = AUR
+	}
+	manpower=4985342
+	state_category=metropolis
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

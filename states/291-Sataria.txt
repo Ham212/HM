@@ -1,0 +1,15 @@
+state={
+	id=291
+	name="STATE_291"
+	provinces={
+		77 611 1103 1891 2490 3831 4134 6757 7640 7650 19515 19516 19640 19641 
+	}
+	history = {
+		owner = AVU
+		add_core_of = AVU
+	}
+	manpower=765212
+	state_category = rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

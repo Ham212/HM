@@ -1,0 +1,19 @@
+
+state={
+	id=227
+	name="STATE_227"
+
+	history={
+		owner = MOL
+		add_core_of = MOL
+
+	}
+
+	provinces={
+		193 827 1866 2178 2646 2794 3044 3071 6004 6047 9339 9391 9464 9479 9507 9528 9540 9541 9570 9608 9641 9707 9726 9736 9815 9829 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

@@ -1,0 +1,15 @@
+state={
+	id=352
+	name="STATE_352"
+	provinces={
+		1300 1416 1527 1910 4126 4240 5037 5182 5430 5437 6702 6893 7185 7280 7294 10380 10448 10449 10521 10557 10558 10585 10622 10623 10631 10677 10683 10744 10757 10781 10792 10806 10826 10865 10866 10922 10930 10984 
+	}
+	history = {
+		owner = MGZ
+		add_core_of = MGZ
+	}
+	manpower=1098472
+	state_category = town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

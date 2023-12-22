@@ -1,0 +1,15 @@
+state={
+	id=633
+	name="STATE_633"
+	provinces={
+		2278 14927 14947 14952 14978 14999 15001 15019 15041 15064 19506 19727 19728 
+	}
+	history = {
+		owner = CRV
+		add_core_of = CRV
+	}
+	manpower = 875221
+	state_category = large_town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

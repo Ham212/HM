@@ -1,0 +1,10 @@
+state={
+	id=577
+	name="STATE_577"
+	provinces={
+		1220 2200 2398 2475 2904 2940 3440 3630 3847 4327 4364 5635 5860 15446 15455 15466 15479 15523 15551 19737 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

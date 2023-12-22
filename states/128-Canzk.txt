@@ -1,0 +1,15 @@
+state={
+	id=128
+	name="STATE_128"
+	provinces={
+		2161 2771 5304 5670 7115 11819 11845 11863 11873 11913 11965 12019 12077 12132 
+	}
+	history = {
+		owner = CAR
+		add_core_of = CAR
+	}
+	manpower=898423
+	state_category = city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

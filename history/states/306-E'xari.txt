@@ -1,0 +1,15 @@
+state={
+	id=306
+	name="STATE_306"
+	provinces={
+		359 731 735 1547 1769 2229 2442 3738 3908 4321 6224 6888 7122 7701 7772 
+	}
+	history = {
+		owner = AVU
+		add_core_of = AVU
+	}
+	manpower=985723
+	state_category = town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

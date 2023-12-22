@@ -1,0 +1,15 @@
+state={
+	id=380
+	name="STATE_380"
+	provinces={
+		1793 3130 3848 3936 5026 6555 6832 7190 8469 8470 8480 8501 8502 8533 8539 8571 8601 8602 8648 8666 8724 8818 
+	}
+	history = {
+		owner = BUL
+		add_core_of = BUL
+	}
+	manpower=100
+    state_category = rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

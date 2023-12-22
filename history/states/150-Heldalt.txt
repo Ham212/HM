@@ -1,0 +1,19 @@
+
+state={
+	id=150
+	name="STATE_150"
+
+	history={
+		owner = HES
+		add_core_of = HES
+
+	}
+
+	provinces={
+		6312 8771 8772 
+	}
+	manpower=2977523
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

@@ -1,0 +1,15 @@
+
+state={
+	id=167
+	name="STATE_167"
+	provinces={
+		8553 8575 
+	}
+	history = {
+		owner = HES
+		add_core_of = HES
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

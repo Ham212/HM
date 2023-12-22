@@ -1,0 +1,15 @@
+state={
+	id=187
+	name="STATE_187"
+	provinces={
+		8302 8330 8336 8345 8371 
+	}
+	history = {
+		owner = VES
+		add_core_of = VES
+	}
+	manpower=1095232
+	state_category = town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

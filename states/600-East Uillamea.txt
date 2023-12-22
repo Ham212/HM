@@ -1,0 +1,15 @@
+state={
+	id=600
+	name="STATE_600"
+	provinces={
+		566 1479 1623 2484 2542 3079 3490 3726 3743 4233 4284 4630 4730 4857 4952 5447 5457 6590 6742 7211 14335 14336 14363 14367 14384 14409 14435 14451 14500 14524 14576 
+	}
+	history = {
+		owner = WCS
+		add_core_of = WCS
+	}
+	manpower = 298752
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

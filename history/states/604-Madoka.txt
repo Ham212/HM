@@ -1,0 +1,14 @@
+state={
+	id=604
+	name="STATE_604"
+	provinces={
+		696 1037 1738 1823 2145 2496 3301 3372 4294 5202 6337 6537 14969 14977 14989 14998 15008 15010 15013 15028 15032 15034 15049 
+	}
+	history = {
+		owner = AMJ
+		add_core_of = AMJ
+	}
+	manpower = 3109523
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

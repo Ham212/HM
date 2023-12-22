@@ -1,0 +1,15 @@
+state={
+	id=91
+	name="STATE_91"
+	provinces={
+		5683 
+	}
+	history = {
+		owner = AUR
+		add_core_of = AUR
+	}
+	manpower=3523123
+	state_category = metropolis
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

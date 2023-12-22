@@ -1,0 +1,15 @@
+state={
+	id=381
+	name="STATE_381"
+	provinces={
+		69 1348 1561 2204 2706 2921 3272 3409 3599 4139 4565 4714 4785 5624 8167 8182 8212 8232 8287 8296 8338 8417 
+	}
+	history = {
+		owner = SUR
+		add_core_of = SUR
+	}
+	manpower=100
+    state_category = rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

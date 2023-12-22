@@ -1,0 +1,15 @@
+state={
+	id=26
+	name="STATE_26"
+	provinces={
+		693 772 4106 4419 9714 9744 9756 9809 9823 9886 9909 9910 9922 9923 10049 10070 10105 10119 10149 10207 16213 
+	}
+	history = {
+		owner=SYL
+		add_core_of = SYL
+	}
+	manpower=1831635
+	state_category=city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

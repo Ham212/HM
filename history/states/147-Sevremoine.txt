@@ -1,0 +1,15 @@
+state={
+	id=147
+	name="STATE_147"
+	provinces={
+		602 4132 5033 8747 8770 8794 8810 8826 8857 8906 8932 
+	}
+	history = {
+		owner = KON
+		add_core_of = KON
+	}
+	manpower=2198642
+	state_category = city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

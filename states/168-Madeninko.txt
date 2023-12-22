@@ -1,0 +1,14 @@
+state={
+	id=168
+	name="STATE_168"
+	provinces={
+		6223 6674 8609 8627 8688 8703 8731 8763 8764 8802 8828 
+	}
+	history = {
+		owner = HES
+		add_core_of = HES
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

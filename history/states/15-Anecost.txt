@@ -1,0 +1,17 @@
+
+state={
+	id=15
+	name="STATE_15"
+	provinces={
+		1859 9115 9124 9184 9198 
+	}
+	history = {
+		owner = " "
+		add_core_of = SYL
+		victory_points = { 9198 30 }
+	}
+	manpower=2664816
+	state_category = large_city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

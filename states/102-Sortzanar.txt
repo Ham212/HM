@@ -1,0 +1,15 @@
+state={
+	id=102
+	name="STATE_102"
+	provinces={
+		6091 6196 10539 10545 10546 10602 10611 10648 10705 
+	}
+	history = {
+		owner = AUR
+		add_core_of = AUR
+	}
+	manpower=2678433
+	state_category = city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

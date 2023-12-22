@@ -1,0 +1,14 @@
+state={
+	id=255
+	name="STATE_255"
+	provinces={
+		6714 7695 7709 16176 
+	}
+	history = {
+		owner = TIP
+		add_core_of = TIP
+	}
+	manpower=356123
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

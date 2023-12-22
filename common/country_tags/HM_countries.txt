@@ -2,8 +2,10 @@
 
 MIT = "countries/HM_West_Art.txt" # Mittsali
 MES = "countries/HM_West_Art.txt" # Meserola
-PEL = "countries/HM_West_Art.txt" # Pelles
 SUI = "countries/HM_West_Art.txt" # Suicia
+BAT = "countries/HM_West_Art.txt" # Battigau
+
+PEL = "countries/HM_West_Art.txt" # Pelles
 KON = "countries/HM_West_Art.txt" # Konstanze
 BEH = "countries/HM_West_Art.txt" # Behren
 HES = "countries/HM_West_Art.txt" # Hestija
@@ -22,14 +24,20 @@ AVI = "countries/HM_West_Art.txt" # Avirault
 ZEL = "countries/HM_West_Art.txt" # Zelzno
 SUR = "countries/HM_West_Art.txt" # Surovia
 
+SIL = "countries/HM_West_Art.txt" # Sildermark
+
 
 # EAST ARTOPA
 
-XIS = "countries/HM_East_Art.text" # Xishan
+XIS = "countries/HM_East_Art.txt" # Xishan
+ASA = "countries/HM_East_Art.txt" # Asakiya
+JIN = "countries/HM_East_Art.txt" # Jing
 
 # BALTECA
 
-IAD = "countries/HM_Balteca.text" # Iadanzia
+IAD = "countries/HM_Balteca.txt" # Iadanzia
+ISI = "countries/HM_Balteca.txt" # Isidoria
+WIS = "countries/HM_Balteca.txt" # Wushwell Company
 
 
 

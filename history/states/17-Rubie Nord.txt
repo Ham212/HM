@@ -1,0 +1,15 @@
+state={
+	id=17
+	name="STATE_17"
+	provinces={
+		2031 5419 5815 6355 8292 8299 8323 8424 8434 8450 8477 8478 8497 8509 8519 8534 
+	}
+	history = {
+		owner = " "
+		add_core_of = SYL
+	}
+	manpower=2796484
+	state_category = large_city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

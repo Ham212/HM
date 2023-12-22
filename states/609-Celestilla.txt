@@ -1,0 +1,15 @@
+state={
+	id=609
+	name="STATE_609"
+	provinces={
+		248 429 591 2192 3381 3484 4292 5548 6302 6581 14902 14913 14919 14924 14925 14936 14937 14959 
+	}
+	history = {
+		owner = CRV
+		add_core_of = CRV
+	}
+	manpower = 318852
+	state_category = rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

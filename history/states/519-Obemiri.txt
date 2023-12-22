@@ -1,0 +1,12 @@
+state={
+	id=519
+	name="STATE_519"
+	provinces={
+		162 214 275 450 852 866 1059 1445 2694 2703 3601 3773 13380 13455 13504 
+	}
+	impassable = yes
+	manpower=100
+    state_category = rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

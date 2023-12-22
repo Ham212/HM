@@ -1,0 +1,14 @@
+state={
+	id=383
+	name="STATE_383"
+	provinces={
+		567 1066 3303 4164 4955 6743 7293 8073 8086 8107 8124 8152 8170 8221 8222 
+	}
+	history = {
+		owner = SUR
+		add_core_of = SUR
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

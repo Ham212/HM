@@ -1,0 +1,15 @@
+state={
+	id=313
+	name="STATE_313"
+	provinces={
+		2917 3610 3682 12719 12741 12767 12799 12875 12889 
+	}
+	history = {
+		owner = KOR
+		add_core_of = KOR
+	}
+	manpower=1085723
+	state_category = city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

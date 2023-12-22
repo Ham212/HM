@@ -1,0 +1,15 @@
+state={
+	id=256
+	name="STATE_256"
+	provinces={
+		7652 7661 7677 16175 
+	}
+	history = {
+		owner = HAE
+		add_core_of = HAE
+	}
+	manpower=124126
+	state_category = rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

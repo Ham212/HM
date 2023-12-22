@@ -1,0 +1,15 @@
+state={
+	id=221
+	name="STATE_221"
+	provinces={
+		4453 4676 5798 6658 9677 9781 9814 9827 9856 9868 9889 9939 9946 9991 
+	}
+	history = {
+		owner = MIT
+		add_core_of = MIT
+	}
+	manpower=718562
+	state_category = rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

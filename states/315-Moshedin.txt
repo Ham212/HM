@@ -1,0 +1,14 @@
+state={
+	id=315
+	name="STATE_315"
+	provinces={
+		2275 3243 12469 12545 12602 
+	}
+	history = {
+		owner = AGK
+		add_core_of = AGK
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

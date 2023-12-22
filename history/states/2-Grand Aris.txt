@@ -1,0 +1,17 @@
+state={
+	id=2
+	name="STATE_2"
+	provinces={
+		8657 8711 16168 16205 
+	}
+	history = {
+		owner = " "
+		add_core_of = SYL
+		victory_points = { 8711 50 }
+		victory_points = { 8657 35 }
+	}
+	manpower=8670419
+	state_category = megalopolis
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

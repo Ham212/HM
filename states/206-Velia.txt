@@ -1,0 +1,15 @@
+state={
+	id=206
+	name="STATE_206"
+	provinces={
+		3173 5028 7150 9681 9925 9949 
+	}
+	history = {
+		owner = KAL
+		add_core_of = KAL
+	}
+	manpower=386342
+	state_category = town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

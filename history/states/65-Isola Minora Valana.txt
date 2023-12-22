@@ -1,0 +1,15 @@
+
+state={
+	id=65
+	name="STATE_65"
+	provinces={
+		2040 2506 6972 9937 9968 10002 10023 10120 10189 
+	}
+	history = {
+		owner = MIT
+		add_core_of = MIT
+	}
+	manpower=515677
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

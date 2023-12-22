@@ -1,0 +1,15 @@
+state={
+	id=274
+	name="STATE_274"
+	provinces={
+		41 3240 3334 4614 6724 7255 7575 7608 7628 7649 
+	}
+	history = {
+		owner = KAV
+		add_core_of = KAV
+	}
+	manpower=100
+    state_category = rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

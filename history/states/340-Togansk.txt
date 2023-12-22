@@ -1,0 +1,15 @@
+state={
+	id=340
+	name="STATE_340"
+	provinces={
+		217 578 1028 2058 3202 3602 3894 4506 4612 4747 5789 6739 11132 11140 11141 11160 11185 11216 11217 11236 11269 11296 11327 11348 11349 11416 11438 11477 11495 11505 
+	}
+	history = {
+		owner = SSU
+		add_core_of = SSU
+	}
+	manpower=7874212
+	state_category = town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

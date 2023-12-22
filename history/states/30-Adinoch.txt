@@ -1,0 +1,15 @@
+state={
+	id=30
+	name="STATE_30"
+	provinces={
+		10568 
+	}
+	history = {
+		owner = " "
+		add_core_of = SYL
+	}
+	manpower=2625669
+	state_category = city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

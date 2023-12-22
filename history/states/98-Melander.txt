@@ -1,0 +1,19 @@
+
+state={
+	id=98
+	name="STATE_98"
+
+	history={
+		owner = AUR
+		add_core_of = AUR
+
+	}
+
+	provinces={
+		5899 6024 10377 10387 10393 10429 10458 
+	}
+	manpower=4285522
+	buildings_max_level_factor=1.000
+	state_category=large_city
+	local_supplies=0.000
+}

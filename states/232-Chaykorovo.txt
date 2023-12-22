@@ -1,0 +1,14 @@
+state={
+	id=232
+	name="STATE_232"
+	provinces={
+		265 1344 2929 3189 3821 3922 5116 6545 6752 9220 9255 9270 9280 9320 9332 9352 9393 9408 9409 9410 9457 9465 9529 9555 
+	}
+	history = {
+		owner = MOL
+		add_core_of = MOL
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

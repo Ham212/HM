@@ -1,0 +1,15 @@
+state={
+	id=258
+	name="STATE_258"
+	provinces={
+		2852 3323 
+	}
+	history = {
+		owner = HAE
+		add_core_of = HAE
+	}
+	manpower=1521356
+	state_category = large_city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

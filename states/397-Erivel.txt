@@ -1,0 +1,14 @@
+state={
+	id=397
+	name="STATE_397"
+	provinces={
+		66 87 185 842 1123 1200 1291 1771 1879 3148 3528 3708 3797 4047 4201 5100 5188 5561 5587 6634 6740 6824 6865 7728 7796 7826 7879 7880 7888 7903 7928 7938 7939 7969 8030 
+	}
+	history = {
+		owner = SUR
+		add_core_of = SUR
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

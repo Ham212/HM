@@ -1,0 +1,15 @@
+state={
+	id=265
+	name="STATE_265"
+	provinces={
+		683 1089 3597 5350 6526 6563 7367 7386 7391 7395 7469 
+	}
+	history = {
+		owner = WYN
+		add_core_of = WYN
+	}
+	manpower=642166
+	state_category = town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

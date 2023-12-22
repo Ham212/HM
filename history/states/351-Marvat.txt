@@ -1,0 +1,14 @@
+state={
+	id=351
+	name="STATE_351"
+	provinces={
+		3769 4242 10073 10165 10209 10265 10298 10335 10352 
+	}
+	history = {
+		owner = MGZ
+		add_core_of = MGZ
+	}
+	manpower=376345
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

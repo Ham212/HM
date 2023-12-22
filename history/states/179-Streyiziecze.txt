@@ -1,0 +1,15 @@
+state={
+	id=179
+	name="STATE_179"
+	provinces={
+		4054 5730 6572 8255 8263 8337 
+	}
+	history = {
+		owner = POV
+		add_core_of = POV
+	}
+	manpower=100
+    state_category = rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

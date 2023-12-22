@@ -1,0 +1,19 @@
+
+state={
+	id=226
+	name="STATE_226"
+
+	history={
+		owner = KON
+		add_core_of = KON
+
+	}
+
+	provinces={
+		328 6434 6875 9129 9169 9200 9209 9261 9269 9278 9306 9319 9351 9369 9414 9421 9450 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

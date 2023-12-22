@@ -1,0 +1,15 @@
+state={
+	id=396
+	name="STATE_396"
+	provinces={
+		89 286 544 881 1572 1630 1885 2711 2784 2836 3009 3188 3296 3600 3733 3920 4072 4125 4577 5481 5657 5972 6236 6266 6467 6498 6544 7992 8015 8076 8080 8112 8138 8143 8161 8168 8190 8200 8203 8213 8244 8256 8284 8285 8312 8326 8384 
+	}
+	history = {
+		owner = SUR
+		add_core_of = SUR
+	}
+	manpower=100
+    state_category = rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,15 @@
+state={
+	id=112
+	name="STATE_112"
+	provinces={
+		1126 1677 5991 6821 10908 10934 10973 10998 11008 11040 11086 
+	}
+	history = {
+		owner = SZE
+		add_core_of = SZE
+	}
+	manpower=823212
+	state_category = town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

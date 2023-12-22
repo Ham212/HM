@@ -1,0 +1,19 @@
+
+state={
+	id=149
+	name="STATE_149"
+
+	history={
+		owner = KON
+		add_core_of = KON
+
+	}
+
+	provinces={
+		1366 1678 5543 6322 8674 8730 8837 8847 8891 8892 8907 8957 
+	}
+	manpower=2675215
+	buildings_max_level_factor=1.000
+	state_category=large_city
+	local_supplies=0.000
+}

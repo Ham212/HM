@@ -1,0 +1,15 @@
+state={
+	id=350
+	name="STATE_350"
+	provinces={
+		140 253 720 1526 3801 4819 6026 6414 6451 10307 10396 10430 10484 10556 10571 10572 10594 10595 10621 10636 10650 10651 10682 10697 10710 10776 10837 
+	}
+	history = {
+		owner = MGZ
+		add_core_of = MGZ
+	}
+	manpower=1286784
+	state_category = large_town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

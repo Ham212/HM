@@ -1,0 +1,15 @@
+state={
+	id=512
+	name="STATE_512"
+	provinces={
+		5220 5394 12945 12984 12997 13023 13024 13031 13046 13062 13067 13080 
+	}
+	history = {
+		owner = ATK
+		add_core_of = ATK
+	}
+	manpower = 879271
+	state_category = town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

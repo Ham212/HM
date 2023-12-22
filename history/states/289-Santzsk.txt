@@ -1,0 +1,15 @@
+state={
+	id=289
+	name="STATE_289"
+	provinces={
+		43 354 710 1006 2208 2897 2918 3707 6464 7547 
+	}
+	history = {
+		owner = AVU
+		add_core_of = AVU
+	}
+	manpower=195845
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

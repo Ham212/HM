@@ -1,0 +1,14 @@
+state={
+	id=334
+	name="STATE_334"
+	provinces={
+		2801 5689 6211 6749 6791 11900 11923 11924 11982 12023 12062 12124 12135 12189 12232 19709 
+	}
+	history = {
+		owner = QAS
+		add_core_of = QAS
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

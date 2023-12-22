@@ -1,0 +1,15 @@
+state={
+	id=208
+	name="STATE_208"
+	provinces={
+		1941 7194 11033 11116 
+	}
+	history = {
+		owner = MIJ
+		add_core_of = MIJ
+	}
+	manpower=598623
+	state_category = town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

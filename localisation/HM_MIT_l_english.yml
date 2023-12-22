@@ -18,6 +18,12 @@ IAD:0 "Iadanzia"
 IAD_DEF:0 "Iadanzia"
 IAD_ADJ:0 "Iadanzia"
 
+BAT:0 "Battigau"
+BAT_DEF:0 "Battigau"
+BAT_ADJ:0 "Battigau"
+
+Battigau
+
 MIT_start_faction:0 "Auctoritatim Mittsali"
 
 ### Focuses ###

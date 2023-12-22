@@ -1,0 +1,11 @@
+state={
+	id=526
+	name="STATE_526"
+	provinces={
+		70 264 561 1019 1056 1299 1530 1576 13694 
+	}
+	impassable = yes
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,15 @@
+state={
+	id=43
+	name="STATE_43"
+	provinces={
+		1936 3192 3542 5736 11672 11699 11700 11758 11878 
+	}
+	history = {
+		owner = SYL
+		add_core_of = SYL
+	}
+	manpower=432440
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

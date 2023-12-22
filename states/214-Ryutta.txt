@@ -1,0 +1,15 @@
+state={
+	id=214
+	name="STATE_214"
+	provinces={
+		45 893 929 5341 6000 6057 7023 11099 11106 11137 11145 11214 
+	}
+	history = {
+		owner = MIJ
+		add_core_of = MIJ
+	}
+	manpower=3187634
+	state_category = rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

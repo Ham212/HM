@@ -1,0 +1,15 @@
+state={
+	id=205
+	name="STATE_205"
+	provinces={
+		2027 2941 3234 3975 3989 4759 5376 5885 5953 6466 6881 9693 9694 9761 9762 9784 9842 9843 9869 9897 9915 9948 9980 9993 10011 10012 10053 10063 10079 
+	}
+	history = {
+		owner = KAL
+		add_core_of = KAL
+	}
+	manpower=1385235
+	state_category = city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,14 @@
+state={
+	id=280
+	name="STATE_280"
+	provinces={
+		659 829 1117 2036 4405 4847 6988 7683 7736 7753 
+	}
+	history = {
+		owner = SUR
+		add_core_of = SUR
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,16 @@
+
+state={
+	id=197
+	name="STATE_197"
+	provinces={
+		2823 4491 5636 6922 7054 7174 7827 7834 7851 7866 7901 7942 7945 7962 7995 8027 
+	}
+	history = {
+		owner = VES
+		add_core_of = VES
+	}
+	manpower=3075235
+	state_category = large_city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

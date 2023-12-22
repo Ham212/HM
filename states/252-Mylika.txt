@@ -1,0 +1,14 @@
+state={
+	id=252
+	name="STATE_252"
+	provinces={
+		1335 3637 6905 7690 7696 7698 7705 
+	}
+	history = {
+		owner = SSL
+		add_core_of = SSL
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

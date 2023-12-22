@@ -1,0 +1,14 @@
+state={
+	id=386
+	name="STATE_386"
+	provinces={
+		570 713 2763 4245 4965 5066 6198 6528 7273 7854 7895 7957 8024 8029 
+	}
+	history = {
+		owner = SUR
+		add_core_of = SUR
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

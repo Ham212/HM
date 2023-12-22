@@ -1,0 +1,19 @@
+
+state={
+	id=163
+	name="STATE_163"
+
+	history={
+		owner = BEH
+		add_core_of = BEH
+
+	}
+
+	provinces={
+		1026 4427 8763 8802 8827 8828 8869 8899 8942 8972 9023 9031 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

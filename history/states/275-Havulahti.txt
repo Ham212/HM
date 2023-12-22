@@ -1,0 +1,16 @@
+
+state={
+	id=275
+	name="STATE_275"
+	provinces={
+		5 1903 1980 2199 2215 2659 3195 3298 4258 4538 6070 6102 6457 6947 7278 7496 7504 7513 7521 7534 7559 7560 7562 7576 7588 7596 7601 7604 7626 7629 19403 19471 19483 19502 19512 19514 
+	}
+	history = {
+		owner = KAV
+		add_core_of = KAV
+	}
+	manpower=100
+    state_category = rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

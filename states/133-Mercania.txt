@@ -1,0 +1,15 @@
+state={
+	id=133
+	name="STATE_133"
+	provinces={
+		748 3135 3796 6794 6868 11300 11301 11324 11359 11371 11380 11404 11411 11412 11443 11458 11474 
+	}
+	history = {
+		owner = CAR
+		add_core_of = CAR
+	}
+	manpower=198522
+	state_category = rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

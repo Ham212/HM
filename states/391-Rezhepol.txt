@@ -1,0 +1,15 @@
+
+state={
+	id=391
+	name="STATE_391"
+	provinces={
+		1090 2022 2456 3172 3814 3970 4441 4704 5136 5482 5494 5592 6219 7675 7688 7697 7712 7742 7764 7769 7793 
+	}
+	history = {
+		owner = SUR
+		add_core_of = SUR
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

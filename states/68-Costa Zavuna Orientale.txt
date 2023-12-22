@@ -1,0 +1,16 @@
+
+state={
+	id=68
+	name="STATE_68"
+	provinces={
+		4325 4969 6846 9538 9629 9715 
+	}
+	history = {
+		owner = PAS
+		add_core_of = PAS
+	}
+	manpower=2198232
+	state_category = large_city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

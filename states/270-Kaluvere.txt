@@ -1,0 +1,15 @@
+state={
+	id=270
+	name="STATE_270"
+	provinces={
+		2133 2429 3344 5456 6844 7593 7605 7613 7623 7647 7651 7653 7682 16174 
+	}
+	history = {
+		owner = AES
+		add_core_of = AES
+	}
+	manpower=1576232
+	state_category = city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

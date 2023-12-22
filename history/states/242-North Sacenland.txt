@@ -1,0 +1,16 @@
+
+state={
+	id=242
+	name="STATE_242"
+	provinces={
+		5812 7708 7717 7731 
+	}
+	history = {
+		owner = TIP
+		add_core_of = TIP
+	}
+	manpower=475634
+	state_category = town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

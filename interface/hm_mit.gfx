@@ -10,4 +10,15 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideas/MIT/MIT_egotist_army_culture.png"
 	}	
 
+	spriteType = {
+		name = "GFX_idea_MIT_cadozi_exile"
+		texturefile = "gfx/interface/ideas/MIT/MIT_cadozi_exile.png"
+	}	
+
+	spriteType = {
+		name = "GFX_idea_MIT_a_crippling_empire"
+		texturefile = "gfx/interface/ideas/MIT/MIT_a_crippling_empire.png"
+	}	
+
+
 }

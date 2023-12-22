@@ -1,0 +1,15 @@
+state={
+	id=142
+	name="STATE_142"
+	provinces={
+		358 2170 5523 7347 9087 9099 9128 9141 9142 9187 9188 9228 9236 9277 9291 9317 9379 9380 9429 
+	}
+	history = {
+		owner = MAR
+		add_core_of = MAR
+	}
+	manpower=3108634
+	state_category = large_city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

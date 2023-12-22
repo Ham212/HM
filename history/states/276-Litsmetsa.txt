@@ -1,0 +1,14 @@
+state={
+	id=276
+	name="STATE_276"
+	provinces={
+		347 521 609 941 1165 2453 5891 6406 7116 7372 7373 7384 7389 7403 7415 7425 7442 7462 7472 19614 19616 19625 19627 19631 
+	}
+	history = {
+		owner = AES
+		add_core_of = AES
+	}
+	manpower=385235
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
