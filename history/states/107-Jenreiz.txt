@@ -6,8 +6,8 @@ state={
 		3505 5819 6814 10804 10825 10851 
 	}
 	history = {
-		owner = MEC
-		add_core_of = MEC
+		owner = AVI
+		add_core_of = AVI
 	}
 	manpower=456773
 	buildings_max_level_factor=1.000

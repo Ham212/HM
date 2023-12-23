@@ -5,9 +5,8 @@ state={
 		995 1848 2759 6194 10296 10319 10361 10388 10472 10508 10554 10555 10592 10593 10604 10695 
 	}
 	history = {
-		owner = KAL
-		add_core_of =KAL
-		add_core_of = MIJ
+		owner = ARR
+		add_core_of = ARR
 	}
 	manpower=566123
 	state_category = town

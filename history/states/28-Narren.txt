@@ -5,10 +5,11 @@ state={
 		1345 6864 10579 10617 10645 10674 10703 10754 
 	}
 	history = {
-		owner = SYL
-		add_core_of = SYL
+		owner = TAL
+		add_core_of = TAL
 	}
 	manpower=220658
+	state_category = town
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

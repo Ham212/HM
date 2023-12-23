@@ -5,8 +5,8 @@ state={
 		2201 4019 4552 5315 7230 11074 11190 11223 11233 11239 11240 11266 11277 
 	}
 	history = {
-		owner = CAR
-		add_core_of = CAR
+		owner = ARI
+		add_core_of = ARI
 	}
 	manpower=157534
 	buildings_max_level_factor=1.000

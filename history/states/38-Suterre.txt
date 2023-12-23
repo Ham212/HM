@@ -5,8 +5,8 @@ state={
 		10129 10208 16214 
 	}
 	history = {
-		owner = " "
-		add_core_of = SYL
+		owner = TAL
+		add_core_of = TAL
 	}
 	manpower=42567
 	state_category=small_island

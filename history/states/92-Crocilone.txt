@@ -5,8 +5,8 @@ state={
 		1239 2039 4205 10847 10898 10899 10945 10946 11031 11039 11076 11096 16228 
 	}
 	history = {
-		owner = AUR
-		add_core_of = AUR
+		owner = PEL
+		add_core_of = PEL
 	}
 	manpower=1566232
 	state_category = city

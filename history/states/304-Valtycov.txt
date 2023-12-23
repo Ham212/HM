@@ -4,6 +4,10 @@ state={
 	provinces={
 		508 1588 2329 2623 2735 3149 3259 3311 3333 3338 4179 4611 5489 5550 5660 6463 7856 7863 7882 7916 7944 7970 7982 7998 8031 8062 
 	}
+	history = {
+		owner = SUR
+		add_core_of = SUR
+	}
 	manpower=100
     state_category = rural
 	buildings_max_level_factor=1.000

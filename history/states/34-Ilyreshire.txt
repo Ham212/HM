@@ -5,8 +5,8 @@ state={
 		6245 8961 
 	}
 	history = {
-		owner = " "
-		add_core_of = SYL
+		owner = TAL
+		add_core_of = TAL
 	}
 	manpower=1349837
 	state_category=city

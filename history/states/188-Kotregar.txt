@@ -5,8 +5,8 @@ state={
 		104 2180 5151 8176 8189 8218 8230 8235 8253 
 	}
 	history = {
-		owner = VES
-		add_core_of = VES
+		owner = ELS
+		add_core_of = ELS
 	}
 	manpower=2981752
 	state_category = city

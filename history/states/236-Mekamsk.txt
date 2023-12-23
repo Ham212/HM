@@ -5,8 +5,8 @@ state={
 		339 421 3985 6432 9480 
 	}
 	history = {
-		owner = MOL
-		add_core_of = MOL
+		owner = SUR
+		add_core_of = SUR
 	}
 	manpower=100
     state_category = rural

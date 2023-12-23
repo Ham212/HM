@@ -5,8 +5,8 @@ state={
 		5431 6454 7037 8464 8529 8536 8582 8591 8607 
 	}
 	history = {
-		owner = MAR
-		add_core_of = MAR
+		owner = ELS
+		add_core_of = ELS
 	}
 	manpower=4986723
 	state_category = metropolis

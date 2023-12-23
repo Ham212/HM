@@ -5,8 +5,8 @@ state={
 		43 354 710 1006 2208 2897 2918 3707 6464 7547 
 	}
 	history = {
-		owner = AVU
-		add_core_of = AVU
+		owner = SUR
+		add_core_of = SUR
 	}
 	manpower=195845
 	state_category = pastoral

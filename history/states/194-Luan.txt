@@ -5,8 +5,8 @@ state={
 		2446 4309 6404 8084 8100 8101 8136 8142 19656 19657 19659 
 	}
 	history = {
-		owner = VES
-		add_core_of = VES
+		owner = ELS
+		add_core_of = ELS
 	}
 	manpower=1172656
 	state_category = town

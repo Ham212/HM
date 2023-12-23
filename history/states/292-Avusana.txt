@@ -5,8 +5,8 @@ state={
 		467 669 957 1065 1613 1718 1724 1776 1817 1928 2108 2164 2565 2838 2966 3496 3906 4739 6132 7549 7581 7602 7685 7707 7718 7773 19639 
 	}
 	history = {
-		owner = AVU
-		add_core_of = AVU
+		owner = SUR
+		add_core_of = SUR
 	}
 	manpower=1087521
 	state_category = town

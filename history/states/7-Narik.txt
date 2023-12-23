@@ -6,8 +6,8 @@ state={
 		8208 
 	}
 	history = {
-		owner = " "
-		add_core_of = VES
+		owner = ELS
+		add_core_of = ELS
 	}
 	manpower=3267342
 	state_category= metropolis

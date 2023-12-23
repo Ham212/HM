@@ -5,9 +5,8 @@ state={
 		1887 3129 4888 5025 5389 7022 7713 7720 7724 7734 7737 7746 7750 7754 7755 7762 7785 7790 7806 7812 7813 7833 7839 7848 
 	}
 	history = {
-		owner = " "
-		add_core_of = HAE
-		add_core_of = VIK
+		owner = TAL
+		add_core_of = TAL
 	}
 	manpower=578341
 	state_category = town

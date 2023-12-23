@@ -5,10 +5,11 @@ state={
 		748 3135 3796 6794 6868 11300 11301 11324 11359 11371 11380 11404 11411 11412 11443 11458 11474 
 	}
 	history = {
-		owner = CAR
-		add_core_of = CAR
+		owner = LYN
+		add_core_of = LYN
 	}
 	manpower=198522
+	state_category = town
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

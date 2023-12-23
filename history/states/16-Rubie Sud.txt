@@ -6,8 +6,8 @@ state={
 		2992 4156 6495 6830 7199 8486 8535 8572 8590 8606 8621 8625 8632 8655 8673 8684 8685 8754 8798 8806 8854 19670 
 	}
 	history = {
-		owner = " "
-		add_core_of = SYL
+		owner = TAL
+		add_core_of = TAL
 		victory_points = { 19670 40 }
 	}
 	manpower=5189320

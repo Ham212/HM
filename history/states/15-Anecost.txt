@@ -6,8 +6,8 @@ state={
 		1859 9115 9124 9184 9198 
 	}
 	history = {
-		owner = " "
-		add_core_of = SYL
+		owner = TAL
+		add_core_of = TAL
 		victory_points = { 9198 30 }
 	}
 	manpower=2664816

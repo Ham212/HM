@@ -5,8 +5,8 @@ state={
 		77 611 1103 1891 2490 3831 4134 6757 7640 7650 19515 19516 19640 19641 
 	}
 	history = {
-		owner = AVU
-		add_core_of = AVU
+		owner = SUR
+		add_core_of = SUR
 	}
 	manpower=765212
 	buildings_max_level_factor=1.000

@@ -5,8 +5,8 @@ state={
 		81 2256 4259 4846 5810 6845 9947 9979 9992 10036 10110 10152 10162 10194 10231 10240 10318 10378 
 	}
 	history = {
-		owner = KAL
-		add_core_of = KAL
+		owner = AVI
+		add_core_of = AVI
 	}
 	manpower=886799
 	state_category = town

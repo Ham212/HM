@@ -6,8 +6,8 @@ state={
 		434 1654 1767 2099 3598 4348 5115 5965 10835 10863 10876 10892 10910 10929 10936 10959 10965 10981 10982 11017 11023 11025 11057 11065 11077 11098 11115 11189 
 	}
 	history = {
-		owner = MIJ
-		add_core_of = MIJ
+		owner = ARI
+		add_core_of = ARI
 	}
 	manpower=858234
 	state_category = large_town

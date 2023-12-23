@@ -5,8 +5,8 @@ state={
 		10880 10916 
 	}
 	history = {
-		owner = AUR
-		add_core_of = AUR
+		owner = PEL
+		add_core_of = PEL
 	}
 	manpower=25566
 	state_category = pastoral

@@ -5,8 +5,8 @@ state={
 		1793 3130 3848 3936 5026 6555 6832 7190 8469 8470 8480 8501 8502 8533 8539 8571 8601 8602 8648 8666 8724 8818 
 	}
 	history = {
-		owner = BUL
-		add_core_of = BUL
+		owner = SUR
+		add_core_of = SUR
 	}
 	manpower=100
     state_category = rural

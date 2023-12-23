@@ -5,10 +5,11 @@ state={
 		5845 10681 10731 10749 10767 10779 10819 10830 16225 
 	}
 	history = {
-		owner = " "
-		add_core_of = SYL
+		owner = TAL
+		add_core_of = TAL
 	}
 	manpower=571320
+	state_category = small_island
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

@@ -5,7 +5,7 @@ state={
 		1794 3118 5473 5707 6744 7733 7768 7792 7821 
 	}
 	history = {
-		owner = SSL
+		owner = SUR
 		add_core_of = SSL
 	}
 	manpower=100

@@ -6,8 +6,8 @@ state={
 		1346 2869 3871 6470 8954 8969 9011 9022 9076 9098 9139 9162 9185 
 	}
 	history = {
-		owner = " "
-		add_core_of = SYL
+		owner = TAL
+		add_core_of = TAL
 	}
 	manpower=492511
 	state_category=rural

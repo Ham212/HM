@@ -5,8 +5,8 @@ state={
 		7714 7723 7725 7735 7738 7739 7744 7749 7751 7757 7759 7766 7774 
 	}
 	history = {
-		owner = TIP
-		add_core_of = TIP
+		owner = ELS
+		add_core_of = ELS
 	}
 	manpower=1485242
 	state_category = city

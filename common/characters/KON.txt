@@ -1,0 +1,16 @@
+characters = {
+	KON_Ferdinand_III = {
+		name = "Ferdinand III" 
+		portraits = {
+			civilian = {
+				large = GFX\leaders\KON\Portrait_KON_Ferdinand_III.png
+			}
+		}
+		country_leader = {
+			ideology = authoritarian_democracy_subtype
+			expire = "1950.1.1.1"
+			id=-1
+		}
+	}
+}
+	

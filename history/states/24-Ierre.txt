@@ -6,9 +6,8 @@ state={
 		442 3266 5355 5566 6398 9550 9551 9589 9590 9602 9613 9614 9626 9638 9649 9662 9673 9689 9713 9755 9770 9808 9822 9835 9908 16209 16212 
 	}
 	history = {
-		owner = " "
-		add_core_of = 
-		add_core_of = SYL
+		owner = TAL
+		add_core_of = TAL
 	}
 	manpower=3608126
 	state_category = large_city

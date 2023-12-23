@@ -5,8 +5,8 @@ state={
 		1569 4149 4644 5837 10132 10173 10188 10201 10248 10249 10303 10304 10331 10347 10456 16216 
 	}
 	history = {
-		owner = PAS
-		add_core_of = PAS
+		owner = TAL
+		add_core_of = TAL
 	}
 	manpower=2285232
 	state_category = city

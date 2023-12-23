@@ -5,8 +5,8 @@ state={
 		2954 3036 3993 4064 6465 10320 10389 10496 10605 10738 
 	}
 	history = {
-		owner = MGZ
-		add_core_of = MGZ
+		owner = ARR
+		add_core_of = ARR
 	}
 	manpower=218673
 	state_category = pastoral
