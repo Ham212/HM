@@ -1,0 +1,44 @@
+﻿l_english:
+### BookSURk ###
+
+### Opinions ###
+
+### Events ###
+
+### Parties ###
+
+### Country Name ###
+ 
+QOR:0 "Qorikanid Empire"
+QOR_DEF:0 "Qorikanid Empire"
+QOR_ADJ:0 "Qorikanid"
+
+DIW:0 "Diwo"
+DIW_DEF:0 "Diwo"
+DIW_ADJ:0 "Diwo"
+
+KHA:0 "Khayda"
+KHA_DEF:0 "Khayda"
+KHA_ADJ:0 "Khayda"
+
+### Focuses ###
+
+ QOR_Focus_ID:0 ""
+ QOR_Focus_ID_desc:0 ""
+ 
+### Ideas ###
+ 
+ QOR_Idea_ID:0 ""
+ QOR_Idea_ID_desc:0 "" 
+
+### Flags ###
+
+### Tooltips ###
+
+### Companies ###
+
+### Ministers ###
+
+### Leaders ###
+
+### Tech? ###

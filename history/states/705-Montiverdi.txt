@@ -5,6 +5,10 @@ state={
 	provinces={
 		580 1605 3579 4554 6116 10454 10493 10505 10525 10549 10577 10578 10644 19695 19697 19700 
 	}
+	history = {
+		owner = ISI
+		add_core_of = ISI
+	}
 	manpower=100
     state_category = rural
 	buildings_max_level_factor=1.000

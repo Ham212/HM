@@ -5,8 +5,8 @@ state={
 		188 346 2047 2640 3518 3700 5146 5509 7252 10878 10941 10976 11003 11010 11035 11060 
 	}
 	history = {
-		owner = SSU
-		add_core_of = SSU
+		owner = DIW
+		add_core_of = DIW
 	}
 	manpower=13876232
 	state_category = city

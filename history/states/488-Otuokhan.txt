@@ -4,6 +4,10 @@ state={
 	provinces={
 		1551 4092 8629 8639 
 	}
+	history = {
+		owner = XIS
+		add_core_of = XIS
+	}
 	manpower=100
     state_category = rural
 	buildings_max_level_factor=1.000

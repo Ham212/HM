@@ -4,6 +4,10 @@ state={
 	provinces={
 		50 2324 3924 5344 5755 5870 6638 7067 11748 11793 11821 11829 11875 11882 11916 11983 11990 12072 
 	}
+	history = {
+		owner = DIW
+		add_core_of = DIW
+	}
 	manpower=100
     state_category = rural
 	buildings_max_level_factor=1.000

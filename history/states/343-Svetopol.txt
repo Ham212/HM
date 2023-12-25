@@ -5,8 +5,8 @@ state={
 		5663 
 	}
 	history = {
-		owner = SSU
-		add_core_of = SSU
+		owner = DIW
+		add_core_of = DIW
 	}
 	manpower=1527563
 	state_category = city

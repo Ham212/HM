@@ -4,6 +4,10 @@ state={
 	provinces={
 		1959 3536 3593 4443 11917 11925 11959 11960 12009 12010 12063 12087 12137 12144 12203 12280 
 	}
+	history = {
+		owner = KHA
+		add_core_of = KHA
+	}
 	manpower=100
     state_category = rural
 	buildings_max_level_factor=1.000

@@ -135,3 +135,21 @@ ISI = {
 	color = rgb { 203 177 117 }
 	color_ui = rgb { 203 177 117 }
 }
+
+## Kanta ##
+
+QOR = {
+	color = rgb { 94 30 30 }
+	color_ui = rgb { 94 30 30 }
+}
+
+
+DIW = {
+	color = rgb { 158 95 149}
+	color_ui = rgb { 158 95 149 }
+}
+
+KHA = {
+	color = rgb { 58 79 62 }
+	color_ui = rgb { 58 79 62 }
+}

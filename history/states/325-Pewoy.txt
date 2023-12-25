@@ -5,8 +5,8 @@ state={
 		1130 2599 3398 3495 4096 4440 4737 5505 5630 6351 6539 12100 12134 12152 12188 12201 12202 12214 12215 12269 12342 12370 12378 12436 12441 12496 12571 
 	}
 	history = {
-		owner = KOR
-		add_core_of = KOR
+		owner = DIW
+		add_core_of = DIW
 	}
 	manpower=1423634
 	state_category = large_town

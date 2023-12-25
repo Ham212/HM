@@ -5,8 +5,8 @@ state={
 		1083 2282 3791 4744 4774 5270 6994 12855 12856 13122 
 	}
 	history = {
-		owner = RYK
-		add_core_of = RYK
+		owner = IAD
+		add_core_of = IAD
 	}
 	manpower = 1972235
 	state_category = city

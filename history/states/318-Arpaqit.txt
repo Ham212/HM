@@ -5,9 +5,8 @@ state={
 		1359 5594 6154 12297 12352 12423 12467 12517 12527 12563 12564 12616 
 	}
 	history = {
-		owner = KOR
-		add_core_of = SIK
-		add_core_of = KOR
+		owner = QOR
+		add_core_of = QOR
 	}
 	manpower=1097522
 	state_category = city

@@ -5,10 +5,11 @@ state={
 		1287 6648 11368 11445 11460 11572 
 	}
 	history = {
-		owner = SSU
-		add_core_of = SSU
+		owner = DIW
+		add_core_of = DIW
 	}
 	manpower=3967232
+	state_category = rural
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

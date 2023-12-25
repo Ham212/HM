@@ -5,8 +5,8 @@ state={
 		4320 6326 6801 11009 11049 11059 11067 11083 11100 
 	}
 	history = {
-		owner = MIJ
-		add_core_of = MIJ
+		owner = DIW
+		add_core_of = DIW
 	}
 	manpower=488232
 	state_category = town

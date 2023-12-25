@@ -5,8 +5,8 @@ state={
 		1915 12343 12379 12412 12468 12544 
 	}
 	history = {
-		owner = AGK
-		add_core_of = AGK
+		owner = DIW
+		add_core_of = DIW
 	}
 	manpower=100
     state_category = rural

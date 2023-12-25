@@ -6,8 +6,8 @@ state={
 	}
 
 	history = {
-		owner = 
-		add_core_of = SIK
+		owner = QOR
+		add_core_of = QOR
 	}
 	manpower = 624634
 	state_category = town

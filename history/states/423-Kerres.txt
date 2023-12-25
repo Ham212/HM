@@ -4,6 +4,10 @@ state={
 	provinces={
 		487 3018 4428 7010 11297 11311 11353 11390 11400 11405 11417 11461 11487 11512 11541 16239 16240 
 	}
+	history = {
+		owner = JIN
+		add_core_of = JIN
+	}
 	manpower=100
     state_category = rural
 	buildings_max_level_factor=1.000

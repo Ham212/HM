@@ -4,6 +4,10 @@ state={
 	provinces={
 		3306 3781 4302 4315 4543 5472 6862 6928 12645 12672 12717 12747 12765 12803 12827 12860 12871 12878 12899 12900 12926 12931 12953 12954 12969 12983 12995 13015 
 	}
+	history = {
+		owner = QOR
+		add_core_of = QOR
+	}
 	manpower=100
     state_category = rural
 	buildings_max_level_factor=1.000

@@ -5,8 +5,8 @@ state={
 		2827 4000 5563 6766 10688 10711 10745 10783 10942 10993 
 	}
 	history = {
-		owner = SSU
-		add_core_of = SSU
+		owner = VER
+		add_core_of = XIS
 	}
 	manpower=6872325
 	state_category = large_town

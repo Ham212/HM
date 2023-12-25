@@ -4,6 +4,10 @@ state={
 	provinces={
 		13018 16294 16295 16296 16297 16300 16311 
 	}
+	history = {
+		owner = ASA
+		add_core_of = ASA
+	}
 	manpower=100
     state_category = rural
 	buildings_max_level_factor=1.000

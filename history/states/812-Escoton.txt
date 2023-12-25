@@ -4,6 +4,10 @@ state={
 	provinces={
 		477 1680 5652 13716 13749 13767 13773 13867 13875 
 	}
+	history = {
+		owner = TAL
+		add_core_of = IAD
+	}
 	manpower=100
     state_category = rural
 	buildings_max_level_factor=1.000

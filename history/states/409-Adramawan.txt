@@ -4,6 +4,10 @@ state={
 	provinces={
 		534 1347 2718 2832 3816 5374 6001 6436 6726 9901 10005 10016 10029 10039 10082 10083 10124 10136 10205 
 	}
+	history = {
+		owner = XIS
+		add_core_of = XIS
+	}
 	manpower=100
     state_category = rural
 	buildings_max_level_factor=1.000

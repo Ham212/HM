@@ -5,8 +5,8 @@ state={
 		12915 
 	}
 	history = {
-		owner = RYK
-		add_core_of = RYK
+		owner = ISI
+		add_core_of = ISI
 	}
 	manpower = 4987522
 	state_category = megalopolis

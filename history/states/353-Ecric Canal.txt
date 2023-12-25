@@ -5,9 +5,8 @@ state={
 		3025 3385 7306 13399 13410 13469 13490 
 	}
 	history = {
-		owner = ECR
-		add_core_of = ECR
-		add_core_of = KHZ
+		owner = QOR
+		add_core_of = QOR
 	}
 	manpower = 3251252
 	state_category = large_city

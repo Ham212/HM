@@ -5,8 +5,8 @@ state={
 		773 3163 3680 4338 5516 6762 12110 12185 12243 12295 12357 12404 12428 12553 12593 12621 12650 12683 12708 
 	}
 	history = {
-		owner = RYK
-		add_core_of = RYK
+		owner = ISI
+		add_core_of = ISI
 	}
 	manpower = 1698752
 	state_category = large_city

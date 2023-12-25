@@ -5,10 +5,11 @@ state={
 		2201 4019 4552 5315 7230 11074 11190 11223 11233 11239 11240 11266 11277 
 	}
 	history = {
-		owner = ARI
-		add_core_of = ARI
+		owner = LYN
+		add_core_of = LYN
 	}
 	manpower=157534
+	state_category = large_town
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

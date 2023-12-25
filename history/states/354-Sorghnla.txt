@@ -5,9 +5,9 @@ state={
 		222 880 1967 2868 3164 4215 4571 4584 5404 6480 13233 13278 13335 13357 13362 13435 13446 13447 13506 
 	}
 	history = {
-		owner = KHZ
-		add_core_of = KHZ
- 	}
+		owner = QOR
+		add_core_of = QOR
+	}
 	manpower = 582712
 	state_category = town
 	buildings_max_level_factor=1.000

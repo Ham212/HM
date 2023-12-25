@@ -47,6 +47,10 @@ WIS = "countries/HM_Balteca.txt" # Wushwell Company
 
 # KANTA
 
+QOR = "countries/HM/West_Art.txt" # Qorikanids
+KHA = "countries/HM/West_Art.txt" # Khayda
+DIW = "countries/HM/West_Art.txt" # Diwo
+
 GER = "countries/HM_West_Art.txt"
 USA = "countries/HM_West_Art.txt"
 ITA = "countries/HM_West_Art.txt"
