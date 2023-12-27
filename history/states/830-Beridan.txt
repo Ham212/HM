@@ -3,6 +3,12 @@ state={
 	name="STATE_830"
 	provinces={
 		891 943 1512 1660 1759 3183 3297 4695 5284 5537 8148 8184 8249 8269 8315 8547 8596 16186 
+	
+	}
+	history = {
+		owner = WIS
+		add_core_of = WIS
+		add_core_of = ISI
 	}
 	manpower=100
     state_category = rural

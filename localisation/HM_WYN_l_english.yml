@@ -1,0 +1,42 @@
+﻿l_english:
+### BookVERk ###
+
+### Opinions ###
+
+### Events ###
+
+### Parties ###
+
+### Country Name ###
+ 
+WYN:0 "Wynn"
+WYN_DEF:0 "Wynn"
+WYN_ADJ:0 "Wynn"
+
+AES:0 "Aeselia"
+AES_DEF:0 "Aeselia"
+AES_ADJ:0 "Aeselia"
+
+
+
+### Focuses ###
+
+ WYN_Focus_ID:0 ""
+ VER_Focus_ID_desc:0 ""
+ 
+### Ideas ###
+ 
+ WYN_Idea_ID:0 ""
+ WYN_Idea_ID_desc:0 "" 
+
+### Flags ###
+
+### Tooltips ###
+
+### Companies ###
+
+### Ministers ###
+
+### Leaders ###
+
+### Tech? ###

@@ -6,8 +6,8 @@ state={
 		5812 7708 7717 7731 
 	}
 	history = {
-		owner = TIP
-		add_core_of = TIP
+		owner = AES
+		add_core_of = AES
 	}
 	manpower=475634
 	state_category = town

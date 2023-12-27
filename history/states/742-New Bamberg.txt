@@ -4,6 +4,11 @@ state={
 	provinces={
 		520 833 1853 2492 3304 3676 3757 3984 5172 5173 6489 6700 7120 7277 7300 11732 11786 11787 11823 11836 11837 11849 11876 11895 11902 11918 11936 11937 11991 12032 12050 12103 
 	}
+	history = {
+		owner = DUN
+		add_core_of = DUN
+		add_core_of = ISI
+	}
 	manpower=100
     state_category = rural
 	buildings_max_level_factor=1.000

@@ -5,8 +5,8 @@ state={
 		6714 7695 7709 16176 
 	}
 	history = {
-		owner = TIP
-		add_core_of = TIP
+		owner = AES
+		add_core_of = AES
 	}
 	manpower=356123
 	buildings_max_level_factor=1.000

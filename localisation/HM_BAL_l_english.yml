@@ -17,6 +17,10 @@ WIS:0 "Wishwell Company"
 WIS_DEF:0 "Wishwell Company"
 WIS_ADJ:0 "Wishwell Company"
 
+DUN:0 "Dunica"
+DUN_DEF:0 "Dunica"
+DUN_ADJ:0 "Dunica"
+
 ### Focuses ###
 
  ISI_Focus_ID:0 ""

@@ -102,6 +102,16 @@ SIL = {
 	color_ui = rgb { 196 163 114 }
 }
 
+WYN = {
+	color = rgb { 90 92 139 }
+	color_ui = rgb { 90 92 139 }
+}
+
+AES = {
+	color = rgb { 104 131 113}
+	color_ui = rgb {  104 131 113 }
+}
+
 ## East Artopa ##
 
 XIS = {
@@ -134,6 +144,11 @@ WIS = {
 ISI = {
 	color = rgb { 203 177 117 }
 	color_ui = rgb { 203 177 117 }
+}
+
+DUN = {
+	color = rgb { 217 193 137 }
+	color_ui = rgb { 217 193 137 }
 }
 
 ## Kanta ##

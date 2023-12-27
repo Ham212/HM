@@ -6,8 +6,8 @@ state={
 		1435 1618 2093 2497 3059 4678 5224 5399 6052 6086 6262 6407 6445 6651 7411 7416 7440 7450 7456 7458 7475 7476 7492 7501 7515 7519 7525 7531 16167 16171 
 	}
 	history = {
-		owner = HAE
-		add_core_of = HAE
+		owner = WYN
+		add_core_of = WYN
 	}
 	manpower=734123
 	state_category = city

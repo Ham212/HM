@@ -26,6 +26,9 @@ SUR = "countries/HM_West_Art.txt" # Surovia
 
 SIL = "countries/HM_West_Art.txt" # Sildermark
 
+AES = "countries/HM_West_Art.txt" # Aeselia
+WYN = "countries/HM_West_Art.txt" # Wynn
+
 
 # EAST ARTOPA
 
@@ -38,6 +41,9 @@ JIN = "countries/HM_East_Art.txt" # Jing
 IAD = "countries/HM_Balteca.txt" # Iadanzia
 ISI = "countries/HM_Balteca.txt" # Isidoria
 WIS = "countries/HM_Balteca.txt" # Wushwell Company
+TBA = "countries/HM_Balteca.txt" # Talsharian Balteca
+DUN = "countries/HM_Balteca.txt" # Dunica
+WBO = "countries/HM_Balteca.txt" # Wynnic Borealia
 
 
 

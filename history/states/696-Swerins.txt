@@ -5,6 +5,10 @@ state={
 	provinces={
 		752 1182 3774 4373 4791 5006 5088 8992 9097 9114 9150 9266 9315 
 	}
+	history = {
+		owner = WYN
+		add_core_of = WYN
+	}
 	manpower=100
 	buildings_max_level_factor=1.000
 	state_category=rural

@@ -5,8 +5,8 @@ state={
 		41 3240 3334 4614 6724 7255 7575 7608 7628 7649 
 	}
 	history = {
-		owner = KAV
-		add_core_of = KAV
+		owner = AES
+		add_core_of = AES
 	}
 	manpower=100
     state_category = rural

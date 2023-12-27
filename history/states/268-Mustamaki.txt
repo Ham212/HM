@@ -6,8 +6,8 @@ state={
 		68 846 1626 3281 3594 4161 4191 6273 7242 7250 7368 7369 7370 7371 7387 7400 7404 
 	}
 	history = {
-		owner = WYN
-		add_core_of = WYN
+		owner = AES
+		add_core_of = AES
 	}
 	manpower=317522
 	buildings_max_level_factor=1.000

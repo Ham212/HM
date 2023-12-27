@@ -5,6 +5,10 @@ state={
 	provinces={
 		1281 1657 1822 2061 2213 2231 2742 3480 5314 5359 5790 5925 6411 6892 6941 7143 7243 9547 9624 9637 9661 9847 9960 9976 10087 10088 10214 10453 
 	}
+	history = {
+		owner = WYN
+		add_core_of = WYN
+	}
 	manpower=100
     state_category = rural
 	buildings_max_level_factor=1.000
