@@ -4,7 +4,7 @@ state={
 	name="STATE_323"
 
 	history={
-		owner = 
+		owner = SIK
 		add_core_of = SIK
 
 	}

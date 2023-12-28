@@ -56,6 +56,8 @@ WBO = "countries/HM_Balteca.txt" # Wynnic Borealia
 QOR = "countries/HM/West_Art.txt" # Qorikanids
 KHA = "countries/HM/West_Art.txt" # Khayda
 DIW = "countries/HM/West_Art.txt" # Diwo
+SIK = "countries/HM/West_Art.txt" # Sikssayu
+NBG = "countries/HM/West_Art.txt" # Nbangala
 
 GER = "countries/HM_West_Art.txt"
 USA = "countries/HM_West_Art.txt"

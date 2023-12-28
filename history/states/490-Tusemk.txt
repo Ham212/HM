@@ -5,7 +5,7 @@ state={
 		396 4525 5011 5392 12133 12151 12162 12177 12187 12212 12249 12278 
 	}
 	history = {
-		owner = KOR
+		owner = SIK
 		add_core_of = SIK
 	}
 	manpower=698742

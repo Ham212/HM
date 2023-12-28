@@ -158,6 +158,15 @@ QOR = {
 	color_ui = rgb { 94 30 30 }
 }
 
+SIK = {
+	color = rgb { 120 50 50 }
+	color_ui = rgb { 120 50 50 }
+}
+
+NBG = {
+	color = rgb { 104 131 113}
+	color_ui = rgb {  104 131 113 }
+}
 
 DIW = {
 	color = rgb { 158 95 149}

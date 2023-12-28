@@ -1,15 +1,19 @@
+
 state={
 	id=74
 	name="STATE_74"
+
+	history={
+		owner = MIT
+		add_core_of = MIT
+
+	}
+
 	provinces={
 		4520 6797 9252 9268 9290 9297 9330 9361 
 	}
-	history = {
-		owner = MIT
-		add_core_of = MIT
-	}
 	manpower=2198875
-	state_category = large_city
 	buildings_max_level_factor=1.000
+	state_category=large_city
 	local_supplies=0.000
 }

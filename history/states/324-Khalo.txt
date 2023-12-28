@@ -6,10 +6,11 @@ state={
 	}
 
 	history = {
-		owner = 
+		owner = SIK
 		add_core_of = SIK
 	}
 	manpower = 598523
+state_category = rural
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

@@ -6,7 +6,7 @@ state={
 	}
 
 	history = {
-		owner = 
+		owner = SIK
 		add_core_of = SIK
 	}
 	manpower = 1392322

@@ -5,8 +5,8 @@ state={
 		734 1073 2176 5240 6914 11435 11436 11459 11531 11538 11557 11583 
 	}
 	history = {
-		owner = QAS
-		add_core_of = QAS
+		owner = SIK
+		add_core_of = SIK
 	}
 	manpower=100
     state_category = rural
